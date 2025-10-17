@@ -5,3 +5,7 @@ Lớp:DK24TTC2
 Điện thoại: 0833161621
 Email: hieppt220686@tvu-onschool.edu.vn
 Đề tài: Xây dựng website bán giày
+17/10/2025
+1. Cài đặt phần mềm Visual Studio 2022, SQL Server Management Studio 19
+2. Tham khảo các tài liệu lập trình ASPNET
+3. Xây dựng đồ án : WebsiteBanGiay
