@@ -12,5 +12,5 @@ Email: hieppt220686@tvu-onschool.edu.vn
    21/10/2025
    1. Tạo project WebShoseStore trên Visual Studio 2022
        - khởi tạo class
-      
+       - khởi tạo hệ quản trị cơ sở dữ liệu
       
