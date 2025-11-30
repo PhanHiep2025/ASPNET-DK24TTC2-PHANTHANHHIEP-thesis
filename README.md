@@ -11,9 +11,10 @@ Email: hieppt220686@tvu-onschool.edu.vn
 2. Tham khảo các tài liệu lập trình ASPNET
 3. Xây dựng đồ án : WebsiteBanGiay
    21/10/2025- 20/11/2025
-   1. Tạo project WebShoseStore trên Visual Studio 2022
+   Tạo project ShoseStore trên Visual Studio 2022
        - khởi tạo class.
        - khởi tạo giao diện, các lớp điều khiển.
        - khởi tạo hệ quản trị cơ sở dữ liệu.
       ...............................
   
+4. Nộp đồ án 30/11/2025
