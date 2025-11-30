@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\New folder\\Website_Ban_Giay_Dep\\Website_Ban_Giay\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|e:\\new folder\\website_ban_giay_dep\\website_ban_giay\\shoesstore\\areas\\admin\\views\\banneradmin\\createbanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|solutionrelative:shoesstore\\areas\\admin\\views\\banneradmin\\createbanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|e:\\new folder\\website_ban_giay_dep\\website_ban_giay\\shoesstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|solutionrelative:shoesstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|e:\\new folder\\website_ban_giay_dep\\website_ban_giay\\shoesstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|solutionrelative:shoesstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|e:\\new folder\\website_ban_giay_dep\\website_ban_giay\\shoesstore\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|solutionrelative:shoesstore\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|e:\\new folder\\website_ban_giay_dep\\website_ban_giay\\shoesstore\\areas\\admin\\views\\banneradmin\\createbanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|solutionrelative:shoesstore\\areas\\admin\\views\\banneradmin\\createbanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,25 +35,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateBanner.cshtml",
-              "DocumentMoniker": "E:\\New folder\\Website_Ban_Giay_Dep\\Website_Ban_Giay\\ShoesStore\\Areas\\Admin\\Views\\BannerAdmin\\CreateBanner.cshtml",
-              "RelativeDocumentMoniker": "ShoesStore\\Areas\\Admin\\Views\\BannerAdmin\\CreateBanner.cshtml",
-              "ToolTip": "E:\\New folder\\Website_Ban_Giay_Dep\\Website_Ban_Giay\\ShoesStore\\Areas\\Admin\\Views\\BannerAdmin\\CreateBanner.cshtml",
-              "RelativeToolTip": "ShoesStore\\Areas\\Admin\\Views\\BannerAdmin\\CreateBanner.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\New folder\\Website_Ban_Giay_Dep\\Website_Ban_Giay\\ShoesStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoesStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\New folder\\Website_Ban_Giay_Dep\\Website_Ban_Giay\\ShoesStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ShoesStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T15:02:14.027Z",
+              "WhenOpened": "2025-11-30T18:01:28.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\New folder\\Website_Ban_Giay_Dep\\Website_Ban_Giay\\ShoesStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShoesStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\New folder\\Website_Ban_Giay_Dep\\Website_Ban_Giay\\ShoesStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShoesStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAGYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T16:41:08.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateBanner.cshtml",
+              "DocumentMoniker": "E:\\New folder\\Website_Ban_Giay_Dep\\Website_Ban_Giay\\ShoesStore\\Areas\\Admin\\Views\\BannerAdmin\\CreateBanner.cshtml",
+              "RelativeDocumentMoniker": "ShoesStore\\Areas\\Admin\\Views\\BannerAdmin\\CreateBanner.cshtml",
+              "ToolTip": "E:\\New folder\\Website_Ban_Giay_Dep\\Website_Ban_Giay\\ShoesStore\\Areas\\Admin\\Views\\BannerAdmin\\CreateBanner.cshtml",
+              "RelativeToolTip": "ShoesStore\\Areas\\Admin\\Views\\BannerAdmin\\CreateBanner.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T15:02:14.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_LayoutAdmin.cshtml",
               "DocumentMoniker": "E:\\New folder\\Website_Ban_Giay_Dep\\Website_Ban_Giay\\ShoesStore\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeDocumentMoniker": "ShoesStore\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
               "ToolTip": "E:\\New folder\\Website_Ban_Giay_Dep\\Website_Ban_Giay\\ShoesStore\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeToolTip": "ShoesStore\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-30T05:08:04.88Z"
             }
