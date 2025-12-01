@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\homes\\Downloads\\Compressed\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis-main\\Src\\Website_Ban_Giay\\",
+  "WorkspaceRootPath": "C:\\Users\\homes\\Documents\\GitHub\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\\Src\\Website_Ban_Giay\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|c:\\users\\homes\\downloads\\compressed\\aspnet-dk24ttc2-phanthanhhiep-thesis-main\\src\\website_ban_giay\\shoesstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|solutionrelative:shoesstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|c:\\users\\homes\\documents\\github\\aspnet-dk24ttc2-phanthanhhiep-thesis\\src\\website_ban_giay\\shoesstore\\areas\\admin\\views\\banneradmin\\createbanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|solutionrelative:shoesstore\\areas\\admin\\views\\banneradmin\\createbanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\homes\\Downloads\\Compressed\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis-main\\Src\\Website_Ban_Giay\\ShoesStore\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ShoesStore\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\homes\\Downloads\\Compressed\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis-main\\Src\\Website_Ban_Giay\\ShoesStore\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ShoesStore\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Title": "CreateBanner.cshtml",
+              "DocumentMoniker": "C:\\Users\\homes\\Documents\\GitHub\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\\Src\\Website_Ban_Giay\\ShoesStore\\Areas\\Admin\\Views\\BannerAdmin\\CreateBanner.cshtml",
+              "RelativeDocumentMoniker": "ShoesStore\\Areas\\Admin\\Views\\BannerAdmin\\CreateBanner.cshtml",
+              "ToolTip": "C:\\Users\\homes\\Documents\\GitHub\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\\Src\\Website_Ban_Giay\\ShoesStore\\Areas\\Admin\\Views\\BannerAdmin\\CreateBanner.cshtml",
+              "RelativeToolTip": "ShoesStore\\Areas\\Admin\\Views\\BannerAdmin\\CreateBanner.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T18:01:28.229Z",
+              "WhenOpened": "2025-12-01T06:09:11.405Z",
               "EditorCaption": ""
             }
           ]

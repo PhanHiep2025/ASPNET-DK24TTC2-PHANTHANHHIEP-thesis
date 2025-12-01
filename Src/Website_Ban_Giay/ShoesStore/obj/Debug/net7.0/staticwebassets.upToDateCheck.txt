@@ -652,6 +652,9 @@ wwwroot\img\13\f603988e-83ef-4937-85d7-5aa236c3786f_1aafa952-b23c-427d-b2f6-3a59
 wwwroot\img\14\3a01f767-1b28-4c52-accd-fcdd5a82c0ea_giay-nike-juniper-trail-3-nam-xam-den-05.jpg
 wwwroot\img\14\545c7d97-4ce5-4631-a60a-6878f9613ecb_giay-nike-juniper-trail-3-nam-xam-den-06.jpg
 wwwroot\img\14\6b9fef3d-cc04-42e0-a7a5-0ae2ecb308a7_giay-nike-juniper-trail-3-nam-xam-den-04.jpg
+wwwroot\img\16\28deee09-304a-43cb-9f27-7561868c1a7c_2.jfif
+wwwroot\img\16\722aafef-0c6a-4254-95fb-cd6d698f25de_3.png
+wwwroot\img\16\7831b88e-3795-4c44-b19d-ed7fac8bfbb4_2.jfif
 wwwroot\img\17\1d2a09d5-965a-4d6b-a814-1185b9b0cbfd_db5c1f5408e04852e94f55a845be519c_w0_h0.jpeg
 wwwroot\img\17\2232503e-1fe9-4d65-b28e-df14ead909ac_download.jfif
 wwwroot\img\17\34252ea3-5d86-4552-b003-281731b1a8fd_db5c1f5408e04852e94f55a845be519c_w0_h0.jpeg
@@ -748,6 +751,7 @@ wwwroot\img\banner\1c10d556-a881-4909-a272-c579d1213ba0_1.jpg
 wwwroot\img\banner\2.png
 wwwroot\img\banner\4e71e878-ceb5-4565-8630-89bfd6c5e778_2.png
 wwwroot\img\banner\7f51e30d-2b7b-4d92-9bdb-a0abf6090e37_baner 2.png
+wwwroot\img\banner\a3cc37ee-b335-45bd-8a7a-6c0f72a7d28f_baner 2.png
 wwwroot\img\banner\baner 2.png
 wwwroot\img\banner\next.png
 wwwroot\img\banner\prev.png
@@ -936,8 +940,7 @@ wwwroot\lib\jquery\LICENSE.txt
 wwwroot\videos\13\6f439187-daf9-4c42-92c8-cfc90669f6b5_Response_CL_Shoes_White_IG6226_video.webm
 wwwroot\videos\13\935d1cd0-5588-4865-83f0-1bc75de4c062_Response_CL_Shoes_Blue_IG6227_video.webm
 wwwroot\videos\14\e6f20b0d-538e-416c-9f85-e60416dec6fc_giay-nike-juniper-trail-3-nam-xam-den-04.jpg
-wwwroot\videos\15\a916ae29-77d7-4560-b67e-614cac5a0908_jordan-1-low-bred-toe-gs-553560-612-2_2708d74a0bdc48d3b491e4ebbfcdc586_grande.jpg
-wwwroot\videos\16\db2d08a8-c416-4a9d-b52c-e9f6f1337236_giay-adidas-ultraboost-5-nam-xam-03-800x800.jpg
+wwwroot\videos\16\c193c4f5-68ee-4340-9ca0-2f17871e12eb_1.jpeg
 wwwroot\videos\17\a6c25697-0259-4b10-8be1-a1e33a5d13ff_db5c1f5408e04852e94f55a845be519c_w0_h0.jpeg
 wwwroot\videos\18\0a6f7e01-0b4a-4c87-bef8-c822582e9e7e_jordan-1-low-bred-toe-gs-553560-612-2_2708d74a0bdc48d3b491e4ebbfcdc586_grande.jpg
 wwwroot\videos\19\71fc5342-2409-43ee-a76f-43b4128ddcf8_giay-adidas-ultraboost-5-nam-xam-01-800x800.jpg
