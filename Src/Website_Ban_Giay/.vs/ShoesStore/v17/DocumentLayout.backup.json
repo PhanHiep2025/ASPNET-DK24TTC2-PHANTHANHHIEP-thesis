@@ -1,26 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\homes\\Documents\\GitHub\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\\Src\\Website_Ban_Giay\\",
+  "WorkspaceRootPath": "C:\\Users\\homes\\Downloads\\Compressed\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis-main\\Src\\Website_Ban_Giay\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|c:\\users\\homes\\documents\\github\\aspnet-dk24ttc2-phanthanhhiep-thesis\\src\\website_ban_giay\\shoesstore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|solutionrelative:shoesstore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|c:\\users\\homes\\documents\\github\\aspnet-dk24ttc2-phanthanhhiep-thesis\\src\\website_ban_giay\\shoesstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|c:\\users\\homes\\downloads\\compressed\\aspnet-dk24ttc2-phanthanhhiep-thesis-main\\src\\website_ban_giay\\shoesstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|solutionrelative:shoesstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|c:\\users\\homes\\documents\\github\\aspnet-dk24ttc2-phanthanhhiep-thesis\\src\\website_ban_giay\\shoesstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|solutionrelative:shoesstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|c:\\users\\homes\\documents\\github\\aspnet-dk24ttc2-phanthanhhiep-thesis\\src\\website_ban_giay\\shoesstore\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|solutionrelative:shoesstore\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|c:\\users\\homes\\documents\\github\\aspnet-dk24ttc2-phanthanhhiep-thesis\\src\\website_ban_giay\\shoesstore\\areas\\admin\\views\\banneradmin\\createbanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C58419E-0CD0-49A9-95E1-5F31C3B32B41}|ShoesStore\\ShoesStore.csproj|solutionrelative:shoesstore\\areas\\admin\\views\\banneradmin\\createbanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,63 +23,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\homes\\Documents\\GitHub\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\\Src\\Website_Ban_Giay\\ShoesStore\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "ShoesStore\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\homes\\Documents\\GitHub\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\\Src\\Website_Ban_Giay\\ShoesStore\\appsettings.Development.json",
-              "RelativeToolTip": "ShoesStore\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-30T19:15:06.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\homes\\Documents\\GitHub\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\\Src\\Website_Ban_Giay\\ShoesStore\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\homes\\Downloads\\Compressed\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis-main\\Src\\Website_Ban_Giay\\ShoesStore\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ShoesStore\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\homes\\Documents\\GitHub\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\\Src\\Website_Ban_Giay\\ShoesStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\homes\\Downloads\\Compressed\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis-main\\Src\\Website_Ban_Giay\\ShoesStore\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ShoesStore\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T18:01:28.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\homes\\Documents\\GitHub\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\\Src\\Website_Ban_Giay\\ShoesStore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ShoesStore\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\homes\\Documents\\GitHub\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\\Src\\Website_Ban_Giay\\ShoesStore\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ShoesStore\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAGYAAAAAAAAAAIBJwGYAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T16:41:08.853Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateBanner.cshtml",
-              "DocumentMoniker": "C:\\Users\\homes\\Documents\\GitHub\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\\Src\\Website_Ban_Giay\\ShoesStore\\Areas\\Admin\\Views\\BannerAdmin\\CreateBanner.cshtml",
-              "RelativeDocumentMoniker": "ShoesStore\\Areas\\Admin\\Views\\BannerAdmin\\CreateBanner.cshtml",
-              "ToolTip": "C:\\Users\\homes\\Documents\\GitHub\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\\Src\\Website_Ban_Giay\\ShoesStore\\Areas\\Admin\\Views\\BannerAdmin\\CreateBanner.cshtml",
-              "RelativeToolTip": "ShoesStore\\Areas\\Admin\\Views\\BannerAdmin\\CreateBanner.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T15:02:14.027Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_LayoutAdmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\homes\\Documents\\GitHub\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\\Src\\Website_Ban_Giay\\ShoesStore\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeDocumentMoniker": "ShoesStore\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ToolTip": "C:\\Users\\homes\\Documents\\GitHub\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\\Src\\Website_Ban_Giay\\ShoesStore\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeToolTip": "ShoesStore\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAIBJwBcAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T05:08:04.88Z"
+              "WhenOpened": "2025-11-30T18:01:28.229Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CbuoYc1x+gg=",
+  "dgSpecHash": "RKjCVSDurV4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\homes\\Documents\\GitHub\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\\Src\\Website_Ban_Giay\\ShoesStore\\ShoesStore.csproj",
+  "projectFilePath": "C:\\Users\\homes\\Downloads\\Compressed\\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis-main\\Src\\Website_Ban_Giay\\ShoesStore\\ShoesStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\homes\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\homes\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
