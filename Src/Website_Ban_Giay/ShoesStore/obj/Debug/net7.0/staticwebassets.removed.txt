@@ -1,3 +1,8 @@
-C:\Users\homes\Documents\GitHub\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\Src\Website_Ban_Giay\ShoesStore\wwwroot\img\14\02455171-2e1e-4bf2-b0a9-e645a47428e1_24.jpg
-C:\Users\homes\Documents\GitHub\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\Src\Website_Ban_Giay\ShoesStore\wwwroot\img\14\4e911df6-3ecc-4e1a-9286-ed0befd0af45_24.jpg
-C:\Users\homes\Documents\GitHub\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\Src\Website_Ban_Giay\ShoesStore\wwwroot\videos\14\28d1650c-5a42-4877-b16a-0d8e3851fdb5_24.jpg
+C:\Users\homes\Documents\GitHub\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\Src\Website_Ban_Giay\ShoesStore\wwwroot\ha-master\new\1.jpeg
+C:\Users\homes\Documents\GitHub\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\Src\Website_Ban_Giay\ShoesStore\wwwroot\ha-master\new\2.jfif
+C:\Users\homes\Documents\GitHub\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\Src\Website_Ban_Giay\ShoesStore\wwwroot\ha-master\new\3.png
+C:\Users\homes\Documents\GitHub\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\Src\Website_Ban_Giay\ShoesStore\wwwroot\ha-master\new\4.png
+C:\Users\homes\Documents\GitHub\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\Src\Website_Ban_Giay\ShoesStore\wwwroot\ha-master\new\5.png
+C:\Users\homes\Documents\GitHub\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\Src\Website_Ban_Giay\ShoesStore\wwwroot\ha-master\new\6.jpg
+C:\Users\homes\Documents\GitHub\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\Src\Website_Ban_Giay\ShoesStore\wwwroot\ha-master\new\7.jpg
+C:\Users\homes\Documents\GitHub\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\Src\Website_Ban_Giay\ShoesStore\wwwroot\ha-master\new\8.jpg
