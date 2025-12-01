@@ -549,32 +549,6 @@ wwwroot\ha-master\img\features\f-icon4.png
 wwwroot\ha-master\img\HA SHOP.png
 wwwroot\ha-master\img\l8.jpg
 wwwroot\ha-master\img\login.jpg
-wwwroot\ha-master\img\new\db5c1f5408e04852e94f55a845be519c_w0_h0.jpeg
-wwwroot\ha-master\img\new\download.jfif
-wwwroot\ha-master\img\new\giay-adidas-ultraboost-5-nam-xam-01-800x800.jpg
-wwwroot\ha-master\img\new\giay-adidas-ultraboost-5-nam-xam-03-800x800.jpg
-wwwroot\ha-master\img\new\giay-adidas-ultraboost-5-nam-xam-06-100x100.jpg
-wwwroot\ha-master\img\new\giay-nike-air-force-1-low-valentine-s-day-2024-fz5068-161.jpeg-1140x600w.jpg
-wwwroot\ha-master\img\new\giay-nike-air-jordan-1-low-bred-toe-553558-612-2_1f1257e50bed49ceb7914b937627ebe1_compact.jpg
-wwwroot\ha-master\img\new\giay-nike-air-jordan-1-low-nam-den-cam-01-800x800.jpg
-wwwroot\ha-master\img\new\giay-nike-air-jordan-1-low-nam-den-cam-04-100x100 (1).jpg
-wwwroot\ha-master\img\new\giay-nike-air-jordan-1-low-nam-den-cam-04-100x100.jpg
-wwwroot\ha-master\img\new\giay-nike-air-jordan-1-low-nam-den-cam-06-100x100.jpg
-wwwroot\ha-master\img\new\giay-nike-juniper-trail-3-nam-xam-den-04.jpg
-wwwroot\ha-master\img\new\giay-nike-juniper-trail-3-nam-xam-den-05.jpg
-wwwroot\ha-master\img\new\giay-nike-juniper-trail-3-nam-xam-den-06.jpg
-wwwroot\ha-master\img\new\giay_nike_air_force_1__07_white_metallic_silver_dd8959-1044_97b7babd42204984a9fb844d1e51b908_compact.png
-wwwroot\ha-master\img\new\giay_nike_air_force_1__07_white_metallic_silver_dd8959-1047_5d5d565763b5429592dc3b688734d0db_grande.png
-wwwroot\ha-master\img\new\giay_nike_air_force_1__07_white_metallic_silver_dd8959-1048_66e2095224704903b28dd1da713e06c4_grande.png
-wwwroot\ha-master\img\new\images.jfif
-wwwroot\ha-master\img\new\jordan-1-low-bred-toe-gs-553560-612-2_2708d74a0bdc48d3b491e4ebbfcdc586_grande.jpg
-wwwroot\ha-master\img\new\jordan-1-low-bred-toe-gs-553560-612-4-1536x1536_e21a1c7c7a6d4013b5ab0239afd99699_grande.jpg
-wwwroot\ha-master\img\new\nikeid-2-2_7ff8a6c5ea2340f7b2f8e8a78899da61_grande.jpeg
-wwwroot\ha-master\img\new\nikeid-4-2_7af332a2bf914eff8c52b3d8e4edaa99_compact.jpeg
-wwwroot\ha-master\img\new\nikeid-4-2_7af332a2bf914eff8c52b3d8e4edaa99_grande.jpeg
-wwwroot\ha-master\img\new\nikeid-5-2_b11f4552feda419abfc10884db147f6a_grande.jpeg
-wwwroot\ha-master\img\new\nikeid-6-2_dcdef63ace8f421994089f2160448ae4_compact (1).jpeg
-wwwroot\ha-master\img\new\nikeid-6-2_dcdef63ace8f421994089f2160448ae4_compact.jpeg
 wwwroot\ha-master\img\product\card.jpg
 wwwroot\ha-master\img\product\e-p1.png
 wwwroot\ha-master\img\product\next.png
@@ -609,6 +583,14 @@ wwwroot\ha-master\js\parallax.min.js
 wwwroot\ha-master\js\vendor\bootstrap.min.js
 wwwroot\ha-master\js\vendor\jquery-2.2.4.min.js
 wwwroot\ha-master\js\vendor\popper.js
+wwwroot\ha-master\new\1.jpeg
+wwwroot\ha-master\new\2.jfif
+wwwroot\ha-master\new\3.png
+wwwroot\ha-master\new\4.png
+wwwroot\ha-master\new\5.png
+wwwroot\ha-master\new\6.jpg
+wwwroot\ha-master\new\7.jpg
+wwwroot\ha-master\new\8.jpg
 wwwroot\ha-master\scss\main.scss
 wwwroot\ha-master\scss\theme\_banner.scss
 wwwroot\ha-master\scss\theme\_blog.scss
