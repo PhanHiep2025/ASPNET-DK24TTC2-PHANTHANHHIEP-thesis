@@ -549,6 +549,65 @@ wwwroot\ha-master\img\features\f-icon4.png
 wwwroot\ha-master\img\HA SHOP.png
 wwwroot\ha-master\img\l8.jpg
 wwwroot\ha-master\img\login.jpg
+wwwroot\ha-master\img\new 1\1.jpg
+wwwroot\ha-master\img\new 1\10.jpg
+wwwroot\ha-master\img\new 1\121.jpg
+wwwroot\ha-master\img\new 1\2.jpg
+wwwroot\ha-master\img\new 1\315.jpg
+wwwroot\ha-master\img\new 1\32.jpg
+wwwroot\ha-master\img\new 1\332.jpg
+wwwroot\ha-master\img\new 1\34.jpg
+wwwroot\ha-master\img\new 1\35.jpg
+wwwroot\ha-master\img\new 1\352.jpg
+wwwroot\ha-master\img\new 1\354.jpg
+wwwroot\ha-master\img\new 1\3`.jpg
+wwwroot\ha-master\img\new 1\4.jpg
+wwwroot\ha-master\img\new 1\40.jpg
+wwwroot\ha-master\img\new 1\41.jpg
+wwwroot\ha-master\img\new 1\42.jpg
+wwwroot\ha-master\img\new 1\43.jpg
+wwwroot\ha-master\img\new 1\45.jpg
+wwwroot\ha-master\img\new 1\46.jpg
+wwwroot\ha-master\img\new 1\48.jpg
+wwwroot\ha-master\img\new 1\49.jpg
+wwwroot\ha-master\img\new 1\5.jpg
+wwwroot\ha-master\img\new 1\50.jpg
+wwwroot\ha-master\img\new 1\51.jpg
+wwwroot\ha-master\img\new 1\52.jpg
+wwwroot\ha-master\img\new 1\543.jpg
+wwwroot\ha-master\img\new 1\56.jpg
+wwwroot\ha-master\img\new 1\567.jpg
+wwwroot\ha-master\img\new 1\57.jpg
+wwwroot\ha-master\img\new 1\58.jpg
+wwwroot\ha-master\img\new 1\6.jpg
+wwwroot\ha-master\img\new 1\65.jpg
+wwwroot\ha-master\img\new 1\66.jpg
+wwwroot\ha-master\img\new 1\67.jpg
+wwwroot\ha-master\img\new 1\676.jpg
+wwwroot\ha-master\img\new 1\6767.jpg
+wwwroot\ha-master\img\new 1\77.jpg
+wwwroot\ha-master\img\new 1\776.jpg
+wwwroot\ha-master\img\new 1\78.jpg
+wwwroot\ha-master\img\new 1\79.jpg
+wwwroot\ha-master\img\new 1\8.jpg
+wwwroot\ha-master\img\new 1\9.jpg
+wwwroot\ha-master\img\new\1.jpeg
+wwwroot\ha-master\img\new\122.jpg
+wwwroot\ha-master\img\new\123.jpg
+wwwroot\ha-master\img\new\124.jpg
+wwwroot\ha-master\img\new\2.jfif
+wwwroot\ha-master\img\new\24.jpg
+wwwroot\ha-master\img\new\25.jpg
+wwwroot\ha-master\img\new\26.jpg
+wwwroot\ha-master\img\new\27.jpg
+wwwroot\ha-master\img\new\28.jpg
+wwwroot\ha-master\img\new\29.jpg
+wwwroot\ha-master\img\new\3.png
+wwwroot\ha-master\img\new\4.png
+wwwroot\ha-master\img\new\5.png
+wwwroot\ha-master\img\new\6.jpg
+wwwroot\ha-master\img\new\7.jpg
+wwwroot\ha-master\img\new\8.jpg
 wwwroot\ha-master\img\product\card.jpg
 wwwroot\ha-master\img\product\e-p1.png
 wwwroot\ha-master\img\product\next.png
@@ -583,14 +642,6 @@ wwwroot\ha-master\js\parallax.min.js
 wwwroot\ha-master\js\vendor\bootstrap.min.js
 wwwroot\ha-master\js\vendor\jquery-2.2.4.min.js
 wwwroot\ha-master\js\vendor\popper.js
-wwwroot\ha-master\new\1.jpeg
-wwwroot\ha-master\new\2.jfif
-wwwroot\ha-master\new\3.png
-wwwroot\ha-master\new\4.png
-wwwroot\ha-master\new\5.png
-wwwroot\ha-master\new\6.jpg
-wwwroot\ha-master\new\7.jpg
-wwwroot\ha-master\new\8.jpg
 wwwroot\ha-master\scss\main.scss
 wwwroot\ha-master\scss\theme\_banner.scss
 wwwroot\ha-master\scss\theme\_blog.scss
@@ -606,6 +657,81 @@ wwwroot\ha-master\scss\theme\_product.scss
 wwwroot\ha-master\scss\theme\_reset.scss
 wwwroot\ha-master\scss\theme\_variables.scss
 wwwroot\img\1.png
+wwwroot\img\10\145127a8-fe72-437c-ad0a-c488119fb5dc_45.jpg
+wwwroot\img\10\c17348a2-79d3-4400-b37e-07cbd8c590fe_49.jpg
+wwwroot\img\10\ca1cb148-df98-406f-b8c2-092f192f2471_48.jpg
+wwwroot\img\11\0d3d40c3-b971-4437-bb2c-4fc905f5d506_43.jpg
+wwwroot\img\11\17bed731-231c-4cbf-819c-1ab8b476f5ac_43.jpg
+wwwroot\img\11\5ac44b7f-ae44-416a-808e-d67ebe569d8a_354.jpg
+wwwroot\img\11\69d2470b-b5dd-4ec3-85aa-ce002dd3e290_332.jpg
+wwwroot\img\11\89a122e9-b66e-4b9e-a8cb-8a8c653c4bcd_35.jpg
+wwwroot\img\11\ac421b26-1114-44f8-9860-5a46225ed76d_51.jpg
+wwwroot\img\12\166ae513-ef0f-479f-ac44-8654f9ac32f5_50.jpg
+wwwroot\img\12\a69c6078-9f28-483f-9d4a-875d69cf52a1_51.jpg
+wwwroot\img\12\e5ffa577-0a1c-43e2-b364-2a974c8145a2_56.jpg
+wwwroot\img\13\8c7f9199-76e9-4913-8109-ffff1e44b009_43.jpg
+wwwroot\img\13\bf8ccc35-7c00-451c-ba1c-6089595f1493_45.jpg
+wwwroot\img\13\ca511605-3ca3-446c-96ed-06cc0df7ba0e_48.jpg
+wwwroot\img\14\02455171-2e1e-4bf2-b0a9-e645a47428e1_24.jpg
+wwwroot\img\14\4e911df6-3ecc-4e1a-9286-ed0befd0af45_24.jpg
+wwwroot\img\14\92346473-58c4-4dc1-8264-2f885156ffdf_29.jpg
+wwwroot\img\15\362cd1b2-02ed-4e6a-b7ba-e970d1571c7d_122.jpg
+wwwroot\img\15\5030ee71-9192-4337-acb2-62b47eaeed0a_26.jpg
+wwwroot\img\15\8e582b3e-fb2b-421b-afb0-3ccecb4ab432_25.jpg
+wwwroot\img\16\1c172382-8653-4742-a81b-63cdefc9dcd8_7.jpg
+wwwroot\img\16\f223ae31-269b-467b-b727-cca7176c4b54_5.png
+wwwroot\img\16\fb374247-87e7-440a-9827-0532244aea6e_8.jpg
+wwwroot\img\17\44c46fcc-b704-4df2-91f5-22269342164d_1.jpeg
+wwwroot\img\17\44f286cd-028c-4a90-a720-aeb6255c6ffb_3.png
+wwwroot\img\17\c2f20260-02bf-470f-8e21-4f14f3c0ee8b_1.jpeg
+wwwroot\img\18\2eca911e-0672-4747-9a94-27a5bbcc3990_123.jpg
+wwwroot\img\18\3748272f-b1e1-485e-933d-e69ea1e03dcb_122.jpg
+wwwroot\img\18\776a6ef6-5c53-42f5-8dc6-e1e4c86910a4_124.jpg
+wwwroot\img\19\0103c5cf-22fc-4808-9702-8a40cd2e0f9b_40.jpg
+wwwroot\img\19\1404ac01-e196-43c9-957d-d4a9e293fb83_56.jpg
+wwwroot\img\19\1475a4f6-7e73-4b1f-af12-7796030665a6_41.jpg
+wwwroot\img\19\336635fa-e2a7-4b98-8ec1-56c7f078364a_78.jpg
+wwwroot\img\19\63237fa8-8a64-4646-b507-662218645126_79.jpg
+wwwroot\img\19\6da51006-e34b-407a-b28e-2128b487b0ec_66.jpg
+wwwroot\img\19\6e75fedd-4319-4631-af75-e071cc708255_42.jpg
+wwwroot\img\19\815fb830-94a8-4f5c-aded-023919745679_67.jpg
+wwwroot\img\19\b03f8d6b-43fb-41e6-89fe-ad809cb198ee_77.jpg
+wwwroot\img\19\c8fc4ee2-e81c-4d2e-a503-baac0073bc36_65.jpg
+wwwroot\img\19\cf38d0fe-69e9-4730-b9b4-2dfee1f384e7_32.jpg
+wwwroot\img\19\d171d358-f23b-4301-8ed6-8b6fa2cbe8de_46.jpg
+wwwroot\img\20\16d3b5fb-fbba-4062-84f9-c1b4fe75900b_48.jpg
+wwwroot\img\20\cd8cbeb9-ad5f-4c7d-9bcd-10adfa0e6841_45.jpg
+wwwroot\img\20\df05618f-fbb1-44ee-a0a4-5a5abdaa0629_49.jpg
+wwwroot\img\21\76940b1d-6e3a-4789-871f-cea1b76131e6_51.jpg
+wwwroot\img\21\b176ea53-419d-4125-a3b5-c4aed8f2035a_50.jpg
+wwwroot\img\21\e766a9d0-5649-438f-82cf-885df87076b9_52.jpg
+wwwroot\img\22\3720c8d8-939f-41e7-a160-f431d7c663c7_65.jpg
+wwwroot\img\22\c894384f-2378-461a-9c77-b71ab8889aaf_67.jpg
+wwwroot\img\22\f1982de5-8724-4d6e-90de-f847caa3638d_66.jpg
+wwwroot\img\23\52de2847-8b7c-4839-91fd-0ce5c79747fb_676.jpg
+wwwroot\img\23\6ae83b2a-f8d4-4934-9611-ccdf5e29d434_6767.jpg
+wwwroot\img\23\ecbdf9e4-4193-431d-bddb-2d0141682758_776.jpg
+wwwroot\img\24\08720dc1-9a49-4b73-b5c4-b42a6b5ad43d_3`.jpg
+wwwroot\img\24\20dee284-ea23-42ed-ab4c-e12357440e55_2.jpg
+wwwroot\img\24\37e0bec0-790b-4f56-bdfe-a16f4de9b364_1.jpg
+wwwroot\img\25\135aee17-e619-4e26-947a-35a8e9b048ed_5.jpg
+wwwroot\img\25\560b344b-79d8-4efb-a266-487555bc7622_4.jpg
+wwwroot\img\25\ab936f80-fc99-414c-b6ab-9ac35d1dddbd_6.jpg
+wwwroot\img\26\3aef0cd0-bad6-42c1-9d0e-97788165fd39_9.jpg
+wwwroot\img\26\5a5cc483-dc1a-475e-ab5f-97f4f6ba48f8_8.jpg
+wwwroot\img\26\618e01c3-d90d-4de6-86e2-a9118d22d347_34.jpg
+wwwroot\img\7\28b52147-f2c4-4f86-8b85-a24aff4a675c_42.jpg
+wwwroot\img\7\29e45394-84bd-4c6b-8627-c6865a06126a_332.jpg
+wwwroot\img\7\4efabea8-b036-41d3-80bd-e492d72c51cf_56.jpg
+wwwroot\img\7\b0e2e04d-3760-40d7-9d34-b655ad378e0c_41.jpg
+wwwroot\img\7\cfe80d95-4415-427d-ac25-ca58728f4565_41.jpg
+wwwroot\img\7\e4ae165a-9072-4f61-ae27-fe002f8fa299_32.jpg
+wwwroot\img\8\077bc0b2-8c58-452b-93c4-6da8b30b740a_121.jpg
+wwwroot\img\8\236ef6fa-4980-4dda-b7bc-e5516cd3a37a_58.jpg
+wwwroot\img\8\b1836a29-1f99-4ff9-800d-5eaa257e5010_57.jpg
+wwwroot\img\9\0617b453-c652-4e55-a5db-d8d456bc9adb_78.jpg
+wwwroot\img\9\770c3fb0-4958-4308-839a-798a6b3de0a5_77.jpg
+wwwroot\img\9\c070a9d2-a099-41a5-a6d2-8a329dbcd8fe_79.jpg
 wwwroot\img\banner\1.jpg
 wwwroot\img\banner\2.png
 wwwroot\img\banner\4e71e878-ceb5-4565-8630-89bfd6c5e778_2.png
@@ -796,10 +922,34 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\videos\10\f5424d35-f5bb-4cee-b95f-de4fde5164a7_45.jpg
+wwwroot\videos\11\c4e06dbe-e575-43d3-aecc-f67960fb23ed_354.jpg
+wwwroot\videos\11\e9319d10-f5b6-4750-b306-ab647fd1b8cf_35.jpg
+wwwroot\videos\12\f22ca812-8ead-445e-a618-4d8b14f82a67_50.jpg
 wwwroot\videos\13\6f439187-daf9-4c42-92c8-cfc90669f6b5_Response_CL_Shoes_White_IG6226_video.webm
 wwwroot\videos\13\935d1cd0-5588-4865-83f0-1bc75de4c062_Response_CL_Shoes_Blue_IG6227_video.webm
+wwwroot\videos\13\db4b7071-07cc-4e66-972a-351a2824dc27_45.jpg
+wwwroot\videos\14\28d1650c-5a42-4877-b16a-0d8e3851fdb5_24.jpg
+wwwroot\videos\15\d2c1bbee-7867-49e4-9c65-9d1e62977357_25.jpg
+wwwroot\videos\16\06b370e1-d004-40cf-8c82-779b2ffb37ca_5.png
+wwwroot\videos\17\c230bc48-cfe6-49e7-9465-ba3cc2285517_1.jpeg
+wwwroot\videos\18\39a9fc7c-26a6-4c50-a446-2921164e54b2_123.jpg
+wwwroot\videos\19\1da58cee-e0a6-4f44-a488-22caa5a0ec41_65.jpg
 wwwroot\videos\19\71fc5342-2409-43ee-a76f-43b4128ddcf8_giay-adidas-ultraboost-5-nam-xam-01-800x800.jpg
-wwwroot\videos\7\06ade6a0-edab-4ca8-bbc4-d1e79f399491_Giay_Response_CL_trang_IG6226_video.webm
+wwwroot\videos\19\b26bdba1-b40b-48f2-83d1-fb07a235fdcd_77.jpg
+wwwroot\videos\19\c1bacf3b-e637-41cc-ae55-c4ef760f6e4d_40.jpg
+wwwroot\videos\19\ed97e28a-6bdf-4913-a7f6-35413f47d14f_32.jpg
+wwwroot\videos\20\b0752aeb-d50a-4353-ad4a-f969c3834001_45.jpg
+wwwroot\videos\21\861909cf-6f6c-4caf-b86a-2235fbc4f972_50.jpg
+wwwroot\videos\22\f9153cbe-6ac3-47a8-891a-dc59dd38871d_65.jpg
+wwwroot\videos\23\9865326c-cfac-491f-928f-743884ab1f01_776.jpg
+wwwroot\videos\24\ef4faf4e-9f22-4c46-b08f-5272452a76df_1.jpg
+wwwroot\videos\25\280cb0b4-4622-4f3f-a40b-3124a795060b_6.jpg
+wwwroot\videos\26\8da4f88f-07c1-4112-a094-b1c6aeaa763c_9.jpg
+wwwroot\videos\7\552f9c4f-3ab7-4f15-a484-e8df60dc6cff_32.jpg
+wwwroot\videos\7\99a4c54a-c676-4ad1-848f-daaf973b461e_41.jpg
+wwwroot\videos\8\a00e161f-9fd9-4f94-b72c-22478df4ae46_58.jpg
+wwwroot\videos\9\225a02c8-90d1-4fab-8265-842d5ceaf839_78.jpg
 wwwroot\videos\9\58190c5d-5a42-4340-b8fd-89fb12d4fa87_Supernova_Stride_Shoes_White_ID0329_video.webm
 wwwroot\videos\9\ebaf642e-e54d-4b7c-8852-f7884fe675d7_Supernova_Stride_Shoes_Black_IG8317_video.webm
 wwwroot\videos\9\ff340cb7-1dfc-480d-a0b5-073d13158c59_Supernova_Stride_Shoes_Red_IG8313_video.webm
