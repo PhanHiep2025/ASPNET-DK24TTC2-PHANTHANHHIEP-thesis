@@ -17,11 +17,11 @@ namespace ShoesStore.Migrations
                 {
                     MABANNER = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    TENBANNER = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false),
+                    TENBANNER = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false),
                     VITRI = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     LINK = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     HOATDONG = table.Column<bool>(type: "bit", nullable: false),
-                    SLOGAN = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false, defaultValueSql: "(N'')")
+                    SLOGAN = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false, defaultValueSql: "(N'')")
                 },
                 constraints: table =>
                 {
@@ -49,7 +49,7 @@ namespace ShoesStore.Migrations
                 {
                     MALOAI = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    TENLOAI = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false)
+                    TENLOAI = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false)
                 },
                 constraints: table =>
                 {
@@ -60,8 +60,8 @@ namespace ShoesStore.Migrations
                 name: "MAU",
                 columns: table => new
                 {
-                    MAMAU = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false),
-                    TENMAU = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: true)
+                    MAMAU = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false),
+                    TENMAU = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: true)
                 },
                 constraints: table =>
                 {
@@ -74,7 +74,7 @@ namespace ShoesStore.Migrations
                 {
                     MAPTTT = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    TENPHUONGTHUC = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false)
+                    TENPHUONGTHUC = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false)
                 },
                 constraints: table =>
                 {
@@ -87,7 +87,7 @@ namespace ShoesStore.Migrations
                 {
                     MASIZE = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    TENSIZE = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false)
+                    TENSIZE = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false)
                 },
                 constraints: table =>
                 {
@@ -98,8 +98,8 @@ namespace ShoesStore.Migrations
                 name: "TAIKHOAN",
                 columns: table => new
                 {
-                    EMAIL = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false),
-                    MATKHAU = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false),
+                    EMAIL = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false),
+                    MATKHAU = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false),
                     LOAITK = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
@@ -123,7 +123,7 @@ namespace ShoesStore.Migrations
                 name: "VOUCHER",
                 columns: table => new
                 {
-                    MAVOUCHER = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false),
+                    MAVOUCHER = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false),
                     SOLUONG = table.Column<int>(type: "int", nullable: false),
                     GIATOITHIEU = table.Column<decimal>(type: "money", nullable: false),
                     GIAMTOIDA = table.Column<decimal>(type: "money", nullable: false),
@@ -142,10 +142,10 @@ namespace ShoesStore.Migrations
                     MADONGSANPHAM = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     MALOAI = table.Column<int>(type: "int", nullable: false),
-                    TENDONGSP = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false),
+                    TENDONGSP = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false),
                     GIAGOC = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
                     MOTA = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    TRANGTHAI = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: true)
+                    TRANGTHAI = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: true)
                 },
                 constraints: table =>
                 {
@@ -163,9 +163,9 @@ namespace ShoesStore.Migrations
                 {
                     MAKH = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    TENKH = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false),
-                    EMAIL = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false),
-                    SDT = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false),
+                    TENKH = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false),
+                    EMAIL = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false),
+                    SDT = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false),
                     GIOITINH = table.Column<bool>(type: "bit", nullable: true),
                     NGAYSINH = table.Column<DateTime>(type: "datetime", nullable: true),
                     NGAYXEPHANG = table.Column<DateTime>(type: "datetime", nullable: true),
@@ -188,10 +188,10 @@ namespace ShoesStore.Migrations
                 {
                     MANV = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    TENNV = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false),
-                    EMAIL = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false),
-                    DIACHI = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: true),
-                    SDT = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false),
+                    TENNV = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false),
+                    EMAIL = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false),
+                    DIACHI = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: true),
+                    SDT = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false),
                     GIOITINH = table.Column<bool>(type: "bit", nullable: false),
                     NGAYSINH = table.Column<DateTime>(type: "datetime", nullable: true)
                 },
@@ -252,7 +252,7 @@ namespace ShoesStore.Migrations
                     MASP = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     MADONGSANPHAM = table.Column<int>(type: "int", nullable: false),
-                    MAMAU = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false),
+                    MAMAU = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false),
                     ANHDAIDIEN = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     ANHMATTREN = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     ANHDEGIAY = table.Column<string>(type: "nvarchar(max)", nullable: false),
@@ -309,7 +309,7 @@ namespace ShoesStore.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     MAKH = table.Column<int>(type: "int", nullable: false),
                     TENNGUOINHAN = table.Column<string>(type: "nvarchar(500)", maxLength: 500, nullable: false),
-                    SDTNGUOINHAN = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false),
+                    SDTNGUOINHAN = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false),
                     DIACHI = table.Column<string>(type: "nvarchar(500)", maxLength: 500, nullable: false)
                 },
                 constraints: table =>
@@ -330,7 +330,7 @@ namespace ShoesStore.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     MANV = table.Column<int>(type: "int", nullable: false),
                     NOIDUNG = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    THELOAI = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: true),
+                    THELOAI = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: true),
                     Anhdaidien = table.Column<string>(type: "nvarchar(max)", nullable: true)
                 },
                 constraints: table =>
@@ -352,16 +352,16 @@ namespace ShoesStore.Migrations
                     NGAYDAT = table.Column<DateTime>(type: "datetime", nullable: false),
                     MAKH = table.Column<int>(type: "int", nullable: true),
                     MANV = table.Column<int>(type: "int", nullable: true),
-                    MAVOUCHER = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: true),
-                    TINHTRANG = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false),
+                    MAVOUCHER = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: true),
+                    TINHTRANG = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false),
                     MAPTTT = table.Column<int>(type: "int", nullable: false),
                     GHICHU = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    LYDOHUYDON = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: true),
+                    LYDOHUYDON = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: true),
                     TONGTIEN = table.Column<decimal>(type: "money", nullable: true),
-                    DIACHINGUOINHAN = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false, defaultValueSql: "(N'')"),
-                    EMAILNGUOINHAN = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false, defaultValueSql: "(N'')"),
-                    SDTNGUOINHAN = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false, defaultValueSql: "(N'')"),
-                    TENNGUOINHAN = table.Column<string>(type: "nvarchar(255)", maxLength: 255, nullable: false, defaultValueSql: "(N'')")
+                    DIACHINGUOINHAN = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false, defaultValueSql: "(N'')"),
+                    EMAILNGUOINHAN = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false, defaultValueSql: "(N'')"),
+                    SDTNGUOINHAN = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false, defaultValueSql: "(N'')"),
+                    TENNGUOINHAN = table.Column<string>(type: "nvarchar(250)", maxLength: 250, nullable: false, defaultValueSql: "(N'')")
                 },
                 constraints: table =>
                 {

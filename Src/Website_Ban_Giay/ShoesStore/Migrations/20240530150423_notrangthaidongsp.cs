@@ -21,8 +21,8 @@ namespace ShoesStore.Migrations
             migrationBuilder.AddColumn<string>(
                 name: "TRANGTHAI",
                 table: "DONGSANPHAM",
-                type: "nvarchar(255)",
-                maxLength: 255,
+                type: "nvarchar(250)",
+                maxLength: 250,
                 nullable: true);
         }
     }

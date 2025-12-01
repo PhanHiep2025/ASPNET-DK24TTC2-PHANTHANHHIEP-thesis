@@ -65,15 +65,15 @@ namespace ShoesStore.Migrations
                     b.Property<string>("Slogan")
                         .IsRequired()
                         .ValueGeneratedOnAdd()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("SLOGAN")
                         .HasDefaultValueSql("(N'')");
 
                     b.Property<string>("Tenbanner")
                         .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("TENBANNER");
 
                     b.Property<string>("Vitri")
@@ -146,8 +146,8 @@ namespace ShoesStore.Migrations
                         .HasColumnName("NOIDUNG");
 
                     b.Property<string>("Theloai")
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("THELOAI");
 
                     b.HasKey("Mablog");
@@ -206,13 +206,13 @@ namespace ShoesStore.Migrations
 
                     b.Property<string>("Tendongsp")
                         .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("TENDONGSP");
 
                     b.Property<string>("Trangthai")
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("TRANGTHAI");
 
                     b.HasKey("Madongsanpham")
@@ -234,8 +234,8 @@ namespace ShoesStore.Migrations
 
                     b.Property<string>("Email")
                         .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("EMAIL");
 
                     b.Property<bool?>("Gioitinh")
@@ -248,14 +248,14 @@ namespace ShoesStore.Migrations
 
                     b.Property<string>("Sdt")
                         .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("SDT");
 
                     b.Property<string>("Tenkh")
                         .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("TENKH");
 
                     b.Property<decimal>("Tongxu")
@@ -308,8 +308,8 @@ namespace ShoesStore.Migrations
 
                     b.Property<string>("Tenloai")
                         .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("TENLOAI");
 
                     b.HasKey("Maloai")
@@ -324,13 +324,13 @@ namespace ShoesStore.Migrations
             modelBuilder.Entity("ShoesStore.Models.Mau", b =>
                 {
                     b.Property<string>("Mamau")
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("MAMAU");
 
                     b.Property<string>("Tenmau")
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("TENMAU");
 
                     b.HasKey("Mamau")
@@ -349,14 +349,14 @@ namespace ShoesStore.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Manv"));
 
                     b.Property<string>("Diachi")
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("DIACHI");
 
                     b.Property<string>("Email")
                         .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("EMAIL");
 
                     b.Property<bool>("Gioitinh")
@@ -369,14 +369,14 @@ namespace ShoesStore.Migrations
 
                     b.Property<string>("Sdt")
                         .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("SDT");
 
                     b.Property<string>("Tennv")
                         .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("TENNV");
 
                     b.HasKey("Manv")
@@ -400,16 +400,16 @@ namespace ShoesStore.Migrations
                     b.Property<string>("Diachinguoinhan")
                         .IsRequired()
                         .ValueGeneratedOnAdd()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("DIACHINGUOINHAN")
                         .HasDefaultValueSql("(N'')");
 
                     b.Property<string>("Emailnguoinhan")
                         .IsRequired()
                         .ValueGeneratedOnAdd()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("EMAILNGUOINHAN")
                         .HasDefaultValueSql("(N'')");
 
@@ -418,8 +418,8 @@ namespace ShoesStore.Migrations
                         .HasColumnName("GHICHU");
 
                     b.Property<string>("Lydohuydon")
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("LYDOHUYDON");
 
                     b.Property<int?>("Makh")
@@ -435,8 +435,8 @@ namespace ShoesStore.Migrations
                         .HasColumnName("MAPTTT");
 
                     b.Property<string>("Mavoucher")
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("MAVOUCHER");
 
                     b.Property<DateTime>("Ngaydat")
@@ -446,23 +446,23 @@ namespace ShoesStore.Migrations
                     b.Property<string>("Sdtnguoinhan")
                         .IsRequired()
                         .ValueGeneratedOnAdd()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("SDTNGUOINHAN")
                         .HasDefaultValueSql("(N'')");
 
                     b.Property<string>("Tennguoinhan")
                         .IsRequired()
                         .ValueGeneratedOnAdd()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("TENNGUOINHAN")
                         .HasDefaultValueSql("(N'')");
 
                     b.Property<string>("Tinhtrang")
                         .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("TINHTRANG");
 
                     b.Property<decimal?>("Tongtien")
@@ -501,8 +501,8 @@ namespace ShoesStore.Migrations
 
                     b.Property<string>("Tenphuongthuc")
                         .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("TENPHUONGTHUC");
 
                     b.HasKey("Mapttt");
@@ -563,8 +563,8 @@ namespace ShoesStore.Migrations
 
                     b.Property<string>("Mamau")
                         .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("MAMAU");
 
                     b.Property<int>("TrangThai")
@@ -627,8 +627,8 @@ namespace ShoesStore.Migrations
 
                     b.Property<string>("Tensize")
                         .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("TENSIZE");
 
                     b.HasKey("Masize")
@@ -658,8 +658,8 @@ namespace ShoesStore.Migrations
 
                     b.Property<string>("Sdtnguoinhan")
                         .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("SDTNGUOINHAN");
 
                     b.Property<string>("Tennguoinhan")
@@ -678,8 +678,8 @@ namespace ShoesStore.Migrations
             modelBuilder.Entity("ShoesStore.Models.Taikhoan", b =>
                 {
                     b.Property<string>("Email")
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("EMAIL");
 
                     b.Property<int>("Loaitk")
@@ -688,8 +688,8 @@ namespace ShoesStore.Migrations
 
                     b.Property<string>("Matkhau")
                         .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("MATKHAU");
 
                     b.HasKey("Email")
@@ -718,8 +718,8 @@ namespace ShoesStore.Migrations
             modelBuilder.Entity("ShoesStore.Models.Voucher", b =>
                 {
                     b.Property<string>("Mavoucher")
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)")
                         .HasColumnName("MAVOUCHER");
 
                     b.Property<decimal>("Giamtoida")
