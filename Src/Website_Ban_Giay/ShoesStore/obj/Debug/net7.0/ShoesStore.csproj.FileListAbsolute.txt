@@ -1293,6 +1293,7 @@ C:\Users\homes\Documents\GitHub\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\Src\Website
 C:\Users\homes\Documents\GitHub\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\Src\Website_Ban_Giay\ShoesStore\obj\Debug\net7.0\ShoesStore.pdb
 C:\Users\homes\Documents\GitHub\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\Src\Website_Ban_Giay\ShoesStore\obj\Debug\net7.0\ShoesStore.genruntimeconfig.cache
 C:\Users\homes\Documents\GitHub\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis\Src\Website_Ban_Giay\ShoesStore\obj\Debug\net7.0\ref\ShoesStore.dll
+<<<<<<< HEAD
 C:\Users\homes\Downloads\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis-main (1)\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis-main\Src\Website_Ban_Giay\ShoesStore\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\homes\Downloads\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis-main (1)\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis-main\Src\Website_Ban_Giay\ShoesStore\bin\Debug\net7.0\appsettings.json
 C:\Users\homes\Downloads\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis-main (1)\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis-main\Src\Website_Ban_Giay\ShoesStore\bin\Debug\net7.0\ShoesStore.staticwebassets.runtime.json
@@ -1554,3 +1555,5 @@ C:\Users\homes\Downloads\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis-main (1)\ASPNET-DK
 C:\Users\homes\Downloads\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis-main (1)\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis-main\Src\Website_Ban_Giay\ShoesStore\obj\Debug\net7.0\ShoesStore.pdb
 C:\Users\homes\Downloads\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis-main (1)\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis-main\Src\Website_Ban_Giay\ShoesStore\obj\Debug\net7.0\ShoesStore.genruntimeconfig.cache
 C:\Users\homes\Downloads\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis-main (1)\ASPNET-DK24TTC2-PHANTHANHHIEP-thesis-main\Src\Website_Ban_Giay\ShoesStore\obj\Debug\net7.0\ref\ShoesStore.dll
+=======
+>>>>>>> cfa15d12dbb19f19e460822fb2ab50aa424b9fd7

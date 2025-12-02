@@ -735,8 +735,11 @@ wwwroot\img\9\c070a9d2-a099-41a5-a6d2-8a329dbcd8fe_79.jpg
 wwwroot\img\banner\1.jpg
 wwwroot\img\banner\2.png
 wwwroot\img\banner\4e71e878-ceb5-4565-8630-89bfd6c5e778_2.png
+<<<<<<< HEAD
 wwwroot\img\banner\704b00ae-7588-457d-8ed3-ab1d328bf9dd_baner 2.png
 wwwroot\img\banner\a845eb32-0405-4956-b3d4-b8997033564c_banner-img.png
+=======
+>>>>>>> cfa15d12dbb19f19e460822fb2ab50aa424b9fd7
 wwwroot\img\banner\cce755db-2367-4852-b0a2-e0ca29ae31d7_baner 2.png
 wwwroot\img\banner\f47b6f3f-319d-4afe-b052-b489be14b2bb_banner-img.png
 wwwroot\img\banner\next.png
@@ -848,6 +851,7 @@ wwwroot\LayoutAdmin\gulp-tasks\vendors.js
 wwwroot\LayoutAdmin\gulpfile.js
 wwwroot\LayoutAdmin\index.html
 wwwroot\LayoutAdmin\LICENSE
+wwwroot\LayoutAdmin\package-lock.json
 wwwroot\LayoutAdmin\package.json
 wwwroot\LayoutAdmin\pages\charts\chartjs.html
 wwwroot\LayoutAdmin\pages\forms\basic_elements.html
