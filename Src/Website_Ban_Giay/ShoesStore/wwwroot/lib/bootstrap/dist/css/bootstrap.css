@@ -40,16 +40,16 @@
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
-  --bs-warning-rgb: 255, 193, 7;
+  --bs-warning-rgb: 250, 193, 7;
   --bs-danger-rgb: 220, 53, 69;
   --bs-light-rgb: 248, 249, 250;
   --bs-dark-rgb: 33, 37, 41;
-  --bs-white-rgb: 255, 255, 255;
+  --bs-white-rgb: 250, 250, 250;
   --bs-black-rgb: 0, 0, 0;
   --bs-body-rgb: 33, 37, 41;
   --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+  --bs-gradient: linear-gradient(180deg, rgba(250, 250, 250, 0.15), rgba(250, 250, 250, 0));
   --bs-body-font-family: var(--bs-font-sans-serif);
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 400;
@@ -3312,7 +3312,7 @@ textarea.form-control-lg {
   border-color: #ffc107;
 }
 .btn-check:focus + .btn-outline-warning, .btn-outline-warning:focus {
-  box-shadow: 0 0 0 0.25rem rgba(255, 193, 7, 0.5);
+  box-shadow: 0 0 0 0.25rem rgba(250, 193, 7, 0.5);
 }
 .btn-check:checked + .btn-outline-warning, .btn-check:active + .btn-outline-warning, .btn-outline-warning:active, .btn-outline-warning.active, .btn-outline-warning.dropdown-toggle.show {
   color: #000;
@@ -3320,7 +3320,7 @@ textarea.form-control-lg {
   border-color: #ffc107;
 }
 .btn-check:checked + .btn-outline-warning:focus, .btn-check:active + .btn-outline-warning:focus, .btn-outline-warning:active:focus, .btn-outline-warning.active:focus, .btn-outline-warning.dropdown-toggle.show:focus {
-  box-shadow: 0 0 0 0.25rem rgba(255, 193, 7, 0.5);
+  box-shadow: 0 0 0 0.25rem rgba(250, 193, 7, 0.5);
 }
 .btn-outline-warning:disabled, .btn-outline-warning.disabled {
   color: #ffc107;
@@ -3475,8 +3475,8 @@ textarea.form-control-lg {
 }
 .dropdown-toggle::after {
   display: inline-block;
-  margin-left: 0.255em;
-  vertical-align: 0.255em;
+  margin-left: 0.250em;
+  vertical-align: 0.250em;
   content: "";
   border-top: 0.3em solid;
   border-right: 0.3em solid transparent;
@@ -3618,8 +3618,8 @@ textarea.form-control-lg {
 }
 .dropup .dropdown-toggle::after {
   display: inline-block;
-  margin-left: 0.255em;
-  vertical-align: 0.255em;
+  margin-left: 0.250em;
+  vertical-align: 0.250em;
   content: "";
   border-top: 0;
   border-right: 0.3em solid transparent;
@@ -3639,8 +3639,8 @@ textarea.form-control-lg {
 }
 .dropend .dropdown-toggle::after {
   display: inline-block;
-  margin-left: 0.255em;
-  vertical-align: 0.255em;
+  margin-left: 0.250em;
+  vertical-align: 0.250em;
   content: "";
   border-top: 0.3em solid transparent;
   border-right: 0;
@@ -3663,8 +3663,8 @@ textarea.form-control-lg {
 }
 .dropstart .dropdown-toggle::after {
   display: inline-block;
-  margin-left: 0.255em;
-  vertical-align: 0.255em;
+  margin-left: 0.250em;
+  vertical-align: 0.250em;
   content: "";
 }
 .dropstart .dropdown-toggle::after {
@@ -3672,8 +3672,8 @@ textarea.form-control-lg {
 }
 .dropstart .dropdown-toggle::before {
   display: inline-block;
-  margin-right: 0.255em;
-  vertical-align: 0.255em;
+  margin-right: 0.250em;
+  vertical-align: 0.250em;
   content: "";
   border-top: 0.3em solid transparent;
   border-right: 0.3em solid;
@@ -3750,7 +3750,7 @@ textarea.form-control-lg {
 }
 .dropdown-menu-dark .dropdown-item:hover, .dropdown-menu-dark .dropdown-item:focus {
   color: #fff;
-  background-color: rgba(255, 255, 255, 0.15);
+  background-color: rgba(250, 250, 250, 0.15);
 }
 .dropdown-menu-dark .dropdown-item.active, .dropdown-menu-dark .dropdown-item:active {
   color: #fff;
@@ -4413,27 +4413,27 @@ textarea.form-control-lg {
   color: #fff;
 }
 .navbar-dark .navbar-nav .nav-link {
-  color: rgba(255, 255, 255, 0.55);
+  color: rgba(250, 250, 250, 0.55);
 }
 .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(250, 250, 250, 0.75);
 }
 .navbar-dark .navbar-nav .nav-link.disabled {
-  color: rgba(255, 255, 255, 0.25);
+  color: rgba(250, 250, 250, 0.25);
 }
 .navbar-dark .navbar-nav .show > .nav-link,
 .navbar-dark .navbar-nav .nav-link.active {
   color: #fff;
 }
 .navbar-dark .navbar-toggler {
-  color: rgba(255, 255, 255, 0.55);
-  border-color: rgba(255, 255, 255, 0.1);
+  color: rgba(250, 250, 250, 0.55);
+  border-color: rgba(250, 250, 250, 0.1);
 }
 .navbar-dark .navbar-toggler-icon {
-  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28250, 250, 250, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
 }
 .navbar-dark .navbar-text {
-  color: rgba(255, 255, 255, 0.55);
+  color: rgba(250, 250, 250, 0.55);
 }
 .navbar-dark .navbar-text a,
 .navbar-dark .navbar-text a:hover,
@@ -4975,7 +4975,7 @@ textarea.form-control-lg {
 }
 
 .progress-bar-striped {
-  background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+  background-image: linear-gradient(45deg, rgba(250, 250, 250, 0.15) 25%, transparent 25%, transparent 50%, rgba(250, 250, 250, 0.15) 50%, rgba(250, 250, 250, 0.15) 75%, transparent 75%, transparent);
   background-size: 1rem 1rem;
 }
 
@@ -5362,7 +5362,7 @@ textarea.form-control-lg {
   max-width: 100%;
   font-size: 0.875rem;
   pointer-events: auto;
-  background-color: rgba(255, 255, 255, 0.85);
+  background-color: rgba(250, 250, 250, 0.85);
   background-clip: padding-box;
   border: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
@@ -5391,7 +5391,7 @@ textarea.form-control-lg {
   align-items: center;
   padding: 0.5rem 0.75rem;
   color: #6c757d;
-  background-color: rgba(255, 255, 255, 0.85);
+  background-color: rgba(250, 250, 250, 0.85);
   background-clip: padding-box;
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
   border-top-left-radius: calc(0.25rem - 1px);
@@ -7714,7 +7714,7 @@ textarea.form-control-lg {
 
 .text-white-50 {
   --bs-text-opacity: 1;
-  color: rgba(255, 255, 255, 0.5) !important;
+  color: rgba(250, 250, 250, 0.5) !important;
 }
 
 .text-reset {

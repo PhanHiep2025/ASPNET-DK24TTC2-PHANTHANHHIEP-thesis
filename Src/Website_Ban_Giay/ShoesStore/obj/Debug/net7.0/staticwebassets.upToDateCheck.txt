@@ -549,30 +549,65 @@ wwwroot\ha-master\img\features\f-icon4.png
 wwwroot\ha-master\img\HA SHOP.png
 wwwroot\ha-master\img\l8.jpg
 wwwroot\ha-master\img\login.jpg
+wwwroot\ha-master\img\new 1\1.jpg
+wwwroot\ha-master\img\new 1\10.jpg
+wwwroot\ha-master\img\new 1\121.jpg
+wwwroot\ha-master\img\new 1\2.jpg
+wwwroot\ha-master\img\new 1\315.jpg
+wwwroot\ha-master\img\new 1\32.jpg
+wwwroot\ha-master\img\new 1\332.jpg
+wwwroot\ha-master\img\new 1\34.jpg
+wwwroot\ha-master\img\new 1\35.jpg
+wwwroot\ha-master\img\new 1\352.jpg
+wwwroot\ha-master\img\new 1\354.jpg
+wwwroot\ha-master\img\new 1\3`.jpg
+wwwroot\ha-master\img\new 1\4.jpg
+wwwroot\ha-master\img\new 1\40.jpg
+wwwroot\ha-master\img\new 1\41.jpg
+wwwroot\ha-master\img\new 1\42.jpg
+wwwroot\ha-master\img\new 1\43.jpg
+wwwroot\ha-master\img\new 1\45.jpg
+wwwroot\ha-master\img\new 1\46.jpg
+wwwroot\ha-master\img\new 1\48.jpg
+wwwroot\ha-master\img\new 1\49.jpg
+wwwroot\ha-master\img\new 1\5.jpg
+wwwroot\ha-master\img\new 1\50.jpg
+wwwroot\ha-master\img\new 1\51.jpg
+wwwroot\ha-master\img\new 1\52.jpg
+wwwroot\ha-master\img\new 1\543.jpg
+wwwroot\ha-master\img\new 1\56.jpg
+wwwroot\ha-master\img\new 1\567.jpg
+wwwroot\ha-master\img\new 1\57.jpg
+wwwroot\ha-master\img\new 1\58.jpg
+wwwroot\ha-master\img\new 1\6.jpg
+wwwroot\ha-master\img\new 1\65.jpg
+wwwroot\ha-master\img\new 1\66.jpg
+wwwroot\ha-master\img\new 1\67.jpg
+wwwroot\ha-master\img\new 1\676.jpg
+wwwroot\ha-master\img\new 1\6767.jpg
+wwwroot\ha-master\img\new 1\77.jpg
+wwwroot\ha-master\img\new 1\776.jpg
+wwwroot\ha-master\img\new 1\78.jpg
+wwwroot\ha-master\img\new 1\79.jpg
+wwwroot\ha-master\img\new 1\8.jpg
+wwwroot\ha-master\img\new 1\9.jpg
 wwwroot\ha-master\img\new\1.jpeg
-wwwroot\ha-master\img\new\10.jpg
-wwwroot\ha-master\img\new\11.jpg
-wwwroot\ha-master\img\new\12.jpg
-wwwroot\ha-master\img\new\13.jpg
-wwwroot\ha-master\img\new\14.jpg
-wwwroot\ha-master\img\new\15.jpg
-wwwroot\ha-master\img\new\16.jpg
-wwwroot\ha-master\img\new\17.jpg
-wwwroot\ha-master\img\new\18.jfif
-wwwroot\ha-master\img\new\19.jpg
+wwwroot\ha-master\img\new\122.jpg
+wwwroot\ha-master\img\new\123.jpg
+wwwroot\ha-master\img\new\124.jpg
 wwwroot\ha-master\img\new\2.jfif
-wwwroot\ha-master\img\new\2.png
-wwwroot\ha-master\img\new\20.jpg
-wwwroot\ha-master\img\new\21.jpeg
-wwwroot\ha-master\img\new\22.jpeg
-wwwroot\ha-master\img\new\23.jpeg
-wwwroot\ha-master\img\new\25.jpeg
+wwwroot\ha-master\img\new\24.jpg
+wwwroot\ha-master\img\new\25.jpg
+wwwroot\ha-master\img\new\26.jpg
+wwwroot\ha-master\img\new\27.jpg
+wwwroot\ha-master\img\new\28.jpg
+wwwroot\ha-master\img\new\29.jpg
 wwwroot\ha-master\img\new\3.png
 wwwroot\ha-master\img\new\4.png
+wwwroot\ha-master\img\new\5.png
 wwwroot\ha-master\img\new\6.jpg
 wwwroot\ha-master\img\new\7.jpg
 wwwroot\ha-master\img\new\8.jpg
-wwwroot\ha-master\img\new\9.jpg
 wwwroot\ha-master\img\product\card.jpg
 wwwroot\ha-master\img\product\e-p1.png
 wwwroot\ha-master\img\product\next.png
@@ -622,137 +657,88 @@ wwwroot\ha-master\scss\theme\_product.scss
 wwwroot\ha-master\scss\theme\_reset.scss
 wwwroot\ha-master\scss\theme\_variables.scss
 wwwroot\img\1.png
-wwwroot\img\10\028c9914-03bb-47e3-8342-0992c6dbe002_0046f7f9-1517-4436-bed8-613b31cd3b74_z5304716776831_b563cf4cd275570169dbcb94acd8034a.jpg
-wwwroot\img\10\10e777d7-3751-4616-b264-fdd8a4467b66_fdbd55dc-24c8-47d7-b318-28930cf3938d_z5304716776832_fafa149c4b88b388d1e2c8257cf1291c.jpg
-wwwroot\img\10\3fe58cbf-d7cd-4816-9711-642c30d576b2_e8012dc9-4339-44cb-a7f9-f7987d39f037_z5304716756961_9b373895b3ceb155990348630991e735.jpg
-wwwroot\img\10\8c46050c-ef5e-4031-a8b4-afeee28938db_4b0ec86e-bda4-4829-9419-a0d413ec75b8_z5304716776254_6033717b16bcf5bfbdd090ef1588906a.jpg
-wwwroot\img\10\b3ca6a03-4b14-4ce5-b17b-2eba0e12eebb_8f762bff-c70b-49eb-adca-3c2c0ed15be3_z5304716765770_10ce1c3259ee7480947c01a80470c204.jpg
-wwwroot\img\10\fa0c2184-2d6e-435e-b73f-df6338fd389a_b35613dc-eb4a-45ad-ac99-c5ef3b34f46c_z5304716765769_d656175b47cdf944472b9f9adbee0e7e.jpg
-wwwroot\img\11\50304b1e-291f-413d-9e9c-2000707f23b5_f3c6e932-d2e7-47f3-8898-bd7d2989506a.jpg
-wwwroot\img\11\7f329219-b9b8-47ff-b704-5a26ea650af0_ccf8a357-5fc8-4819-97cc-ae999b4c0326.jpg
-wwwroot\img\11\a9ba7ad2-8ff4-4b2d-a8a7-91f296ea5400_9753ed7e-2418-4e0e-b108-df6a10194e56.png
-wwwroot\img\11\b48257fe-e9b0-45f1-858a-9c7729851137_2c31c10d-56bf-4936-a2d0-5deb14572698.png
-wwwroot\img\11\bbe89c5f-5992-40c4-93da-445a39a97ad5_b5251513-6b1f-466e-b609-2fe1c58869b5.jpg
-wwwroot\img\11\e6610e34-c727-4fc3-91d1-7f323e46bda4_d3f602ab-259e-473f-ad08-62d1df6f161c.png
-wwwroot\img\12\11dd42f7-1731-4be8-8b85-15526962e2ef_47fdda79-b20d-4f05-8ed1-983681ba006d_z5304782661533_065df79e53bbea0f988e9f0553824620.jpg
-wwwroot\img\12\19efb533-ca79-4def-b4ed-1a79d8934dfa_4582e39e-0d5b-403b-8aad-5c0a3c7a4dde_z5304782654251_a00499200a437c76c0cc0cef76af0937.jpg
-wwwroot\img\12\50684b2b-e56e-4ab6-bca2-73678f5945e2_51fa9ed2-51e9-43d0-b4d3-391bd1958bf0_z5304782678310_83719b130243863e7fed8c48c8a27159.jpg
-wwwroot\img\12\5e640daf-6f1d-4c77-a128-fafed45c6c22_3951fb6e-daae-4ab9-81d3-ecf34d3400f0_z5304782687731_1390628daa5f127d252496f0432fa900.jpg
-wwwroot\img\12\6905b9be-bf99-47b7-8325-c394ef3d2cea_33aee606-d091-42c6-bfb6-7fb90a23ce0b_z5304782672003_65448336ee630cb031981eb99ad1303b.jpg
-wwwroot\img\12\73d1fb3f-ce83-4e4a-9789-888ea779554a_673ddc2c-26fc-4b0c-b50a-4f4e97532ac2_z5304782631646_38456c3c301c987264c2a4a48550a0cc.jpg
-wwwroot\img\13\14c58312-2620-4c26-b3d9-e4d06b26af6b_a37f6a97-a21e-4d89-804a-6fe113523dfa_z5304802345666_7e573ec9a169691dd2c26acf5715a134.jpg
-wwwroot\img\13\7faf4db1-8e2b-4eec-8a5f-ec0ccf839ff0_0868453c-90fb-4610-a87d-11ce5e7397e5_z5304802337516_f84fa624a7c89361c9af2c9e4db121ba.jpg
-wwwroot\img\13\8168a3df-49ac-4cb9-abe6-0c441be1cae4_bf310b1f-6ea4-4efc-8ccf-e1765b603c49_z5304802331168_06339f79b300913d7b3975b27907c0b3.jpg
-wwwroot\img\13\90b46aee-2600-4d40-b15c-3a02c51f5403_45e77119-19db-4d44-a3d8-17fbc3fdc89a_z5304802364414_d0857eefb0cbdd5a20fecd861b7ce9d9.jpg
-wwwroot\img\13\924bb144-2bae-41e8-b4fe-4972127294da_b7dd973e-1b56-48ad-8d76-052a5e8eb173_z5304802323049_8542ab297a3589b044bf1de1ce37ea73.jpg
-wwwroot\img\13\96997333-efff-4473-81c2-780312e9cba2_c87b9392-0aff-4694-8647-667dde7acb19_z5304802364411_c71568d7322485e0fc777fef80c156fd.jpg
-wwwroot\img\13\c36b66ad-5a05-408d-99ea-427fea6e7f1a_6b9b063b-02af-45c6-a305-3301c9e1fd56_z5304802364412_c99515890bf7af4cc6112edba8e85a95.jpg
-wwwroot\img\13\e0df7c1e-3ecb-4b70-899c-085ba4b8162b_7435aef8-6eaf-428a-a02c-bbee97b44160_z5304802331170_c8b398d50f24c9fbc688b8420f58ca27.jpg
-wwwroot\img\13\f603988e-83ef-4937-85d7-5aa236c3786f_1aafa952-b23c-427d-b2f6-3a5908b53b53_z5304802364415_1b7449046dcf791348b93a5167d9252c.jpg
-wwwroot\img\14\3a01f767-1b28-4c52-accd-fcdd5a82c0ea_giay-nike-juniper-trail-3-nam-xam-den-05.jpg
-wwwroot\img\14\545c7d97-4ce5-4631-a60a-6878f9613ecb_giay-nike-juniper-trail-3-nam-xam-den-06.jpg
-wwwroot\img\14\6b9fef3d-cc04-42e0-a7a5-0ae2ecb308a7_giay-nike-juniper-trail-3-nam-xam-den-04.jpg
-wwwroot\img\16\28deee09-304a-43cb-9f27-7561868c1a7c_2.jfif
-wwwroot\img\16\722aafef-0c6a-4254-95fb-cd6d698f25de_3.png
-wwwroot\img\16\7831b88e-3795-4c44-b19d-ed7fac8bfbb4_2.jfif
-wwwroot\img\17\1d2a09d5-965a-4d6b-a814-1185b9b0cbfd_db5c1f5408e04852e94f55a845be519c_w0_h0.jpeg
-wwwroot\img\17\2232503e-1fe9-4d65-b28e-df14ead909ac_download.jfif
-wwwroot\img\17\34252ea3-5d86-4552-b003-281731b1a8fd_db5c1f5408e04852e94f55a845be519c_w0_h0.jpeg
-wwwroot\img\18\8918c393-e162-4b25-889b-fa8974dd2b6f_giay-nike-air-jordan-1-low-nam-den-cam-04-100x100 (1).jpg
-wwwroot\img\18\93a57213-25aa-4935-95d5-f55ce43e45ec_giay-nike-air-jordan-1-low-nam-den-cam-06-100x100.jpg
-wwwroot\img\18\e792b515-c21f-445b-b08a-7cde0d08c44c_giay-nike-air-jordan-1-low-nam-den-cam-01-800x800.jpg
-wwwroot\img\2\024deca1-9c9a-4ac4-a25c-a8cc31e6371a_53c22ffd-c22c-4c31-b570-c8c8ceb87523.jpg
-wwwroot\img\2\06585631-cad5-48e0-b81a-8dbdd76cde1c_b47930d4-b563-4990-92cc-f37898d9561a_duramo.jpg
-wwwroot\img\2\0bd57093-5942-49b0-8e25-a8c08fac6222_26f0da21-73be-4729-a729-b1707ad7d327_duramoabove.jpg
-wwwroot\img\2\1899e2d2-8ef4-4258-a96e-8e68c617d6a4_4e8dc4f8-59d8-4dcb-b629-5d67f1a6aa02.jpg
-wwwroot\img\2\1afb99e3-4787-4c88-89c7-a7b4c61ef704_93a54454-8ca9-443e-b9ff-a770448df959_c05e4d64-0078-4ec0-a7c2-4c32d6bb6274.jpg
-wwwroot\img\2\26f0da21-73be-4729-a729-b1707ad7d327_duramoabove.jpg
-wwwroot\img\2\2fa571fb-779e-4165-a48b-a8e1856457cc_024deca1-9c9a-4ac4-a25c-a8cc31e6371a_53c22ffd-c22c-4c31-b570-c8c8ceb87523.jpg
-wwwroot\img\2\39d75dda-e7fd-45ac-9bc0-e6e0e60d6b2f_c3984f39-ddc6-47ea-8d08-8b7ada2a99fb_6888be03-d3ed-47dd-87f1-52ef3001c49a.jpg
-wwwroot\img\2\4f484ac4-9a7d-4f85-8a61-03e5e00892a5_93a54454-8ca9-443e-b9ff-a770448df959_c05e4d64-0078-4ec0-a7c2-4c32d6bb6274.jpg
-wwwroot\img\2\59cd90aa-e065-47e8-959d-d34bbe681a98_10e6f69e-d52a-463e-8f3d-401493bd77c9_d64d8498-7820-4071-9072-e42549859956.jpg
-wwwroot\img\2\7a7055eb-7189-4a48-9d63-390eff8f7e40_024deca1-9c9a-4ac4-a25c-a8cc31e6371a_53c22ffd-c22c-4c31-b570-c8c8ceb87523.jpg
-wwwroot\img\2\7d93cec2-44e4-4778-8512-c0eddb5d1060_bb014c5c-042a-409e-aca0-d44420175da7_53c22ffd-c22c-4c31-b570-c8c8ceb87523.jpg
-wwwroot\img\2\892cff65-f772-423f-9d9f-cfbe46192c40_26f0da21-73be-4729-a729-b1707ad7d327_duramoabove.jpg
-wwwroot\img\2\8ff58404-da87-46c2-aa87-2935ee7de5e9_duramobottom.jpg
-wwwroot\img\2\93a54454-8ca9-443e-b9ff-a770448df959_c05e4d64-0078-4ec0-a7c2-4c32d6bb6274.jpg
-wwwroot\img\2\9521c86b-eb59-4508-9c86-ace121e63327_b47930d4-b563-4990-92cc-f37898d9561a_duramo.jpg
-wwwroot\img\2\a81f25e2-3755-414d-90d5-1636d33ca774_26f0da21-73be-4729-a729-b1707ad7d327_duramoabove.jpg
-wwwroot\img\2\b47930d4-b563-4990-92cc-f37898d9561a_duramo.jpg
-wwwroot\img\2\b4b26739-b684-42e1-b3af-84d1cd67b80a_b47930d4-b563-4990-92cc-f37898d9561a_duramo.jpg
-wwwroot\img\2\b53168b0-8bc8-4ed3-9270-ff28c54e32eb_10e6f69e-d52a-463e-8f3d-401493bd77c9_d64d8498-7820-4071-9072-e42549859956.jpg
-wwwroot\img\2\bb014c5c-042a-409e-aca0-d44420175da7_53c22ffd-c22c-4c31-b570-c8c8ceb87523.jpg
-wwwroot\img\2\c3984f39-ddc6-47ea-8d08-8b7ada2a99fb_6888be03-d3ed-47dd-87f1-52ef3001c49a.jpg
-wwwroot\img\2\c727898e-5ef5-43cf-97f2-a5f8f91be326_024deca1-9c9a-4ac4-a25c-a8cc31e6371a_53c22ffd-c22c-4c31-b570-c8c8ceb87523.jpg
-wwwroot\img\2\dbf81063-eb42-4f6e-964f-1495c493a834_bb014c5c-042a-409e-aca0-d44420175da7_53c22ffd-c22c-4c31-b570-c8c8ceb87523.jpg
-wwwroot\img\2\f058807a-5f70-45ff-a618-cfabc23ff587_024deca1-9c9a-4ac4-a25c-a8cc31e6371a_53c22ffd-c22c-4c31-b570-c8c8ceb87523.jpg
-wwwroot\img\3\1af203ae-9e72-405e-ad1f-b687ff2af69e_1e1807d5-fb18-4781-84ef-ebbc24d38283.jpg
-wwwroot\img\3\4342b420-91be-485e-86df-80eb5d75fb9c_TurfCopaPinkAbove.jpg
-wwwroot\img\3\58615265-1ab4-44e5-ba7b-a10584b64181_TurfCopaAvatar.jpg
-wwwroot\img\3\5ca62323-3e1e-4626-98bf-c6b6ddf512eb_TurfCopaPink.jpg
-wwwroot\img\3\6969f9e7-81c6-48d2-95d5-09d5c4d01bb6_72101b7d-147c-4dde-a360-6c359a19035a.jpg
-wwwroot\img\3\6b35a36e-9ae3-4b8a-b075-b1deced97c4e_4342b420-91be-485e-86df-80eb5d75fb9c_TurfCopaPinkAbove.jpg
-wwwroot\img\3\96215044-f18c-4e64-9792-0de192cd53c5_5ca62323-3e1e-4626-98bf-c6b6ddf512eb_TurfCopaPink.jpg
-wwwroot\img\3\f7799cf8-a76c-4583-b0eb-16baca96fcc8_58615265-1ab4-44e5-ba7b-a10584b64181_TurfCopaAvatar.jpg
-wwwroot\img\3\fbcf3a14-68a4-4848-be1e-200ce441b364_395c2873-94e7-4e4c-a963-083f96959d8b.jpg
-wwwroot\img\4\276dfd20-44fd-4da6-99ff-57c6a986486f_68ee269e-f3e8-448b-b2b1-09a35351b5fa.jpg
-wwwroot\img\4\404e82da-a83a-48af-88a0-22e1a9e97fe8.jpg
-wwwroot\img\4\44e832d7-cb93-48d3-ba31-e5ba0a90b2c6_b47930d4-b563-4990-92cc-f37898d9561a_duramo.jpg
-wwwroot\img\4\5168301f-b119-4d61-a5b3-aee3edd19425.jpg
-wwwroot\img\4\5a10e299-cf48-467b-a70f-6daf8cfe42a7_024deca1-9c9a-4ac4-a25c-a8cc31e6371a_53c22ffd-c22c-4c31-b570-c8c8ceb87523.jpg
-wwwroot\img\4\5ab4f94a-0f4c-4f60-b4a9-88032c68198d_8c95e9dc-9336-4db2-a30c-717e49b95a81.jpg
-wwwroot\img\4\658ee8fa-522a-49dc-ba8e-21efb2ff3516_98384c1f-cd28-4884-b070-e7b7d8058ef4.jpg
-wwwroot\img\4\68ee269e-f3e8-448b-b2b1-09a35351b5fa.jpg
-wwwroot\img\4\6ce353e4-d1c9-49fd-a384-47e720375d88_88eed805-a5e4-46d4-977d-9a5dee60ec81.jpg
-wwwroot\img\4\7904c098-3504-43fe-bccf-56fab0acaaec_bb014c5c-042a-409e-aca0-d44420175da7_53c22ffd-c22c-4c31-b570-c8c8ceb87523.jpg
-wwwroot\img\4\88eed805-a5e4-46d4-977d-9a5dee60ec81.jpg
-wwwroot\img\4\8a5623d4-05b2-4872-8e2d-cefbf4ad3b00_404e82da-a83a-48af-88a0-22e1a9e97fe8.jpg
-wwwroot\img\4\8c95e9dc-9336-4db2-a30c-717e49b95a81.jpg
-wwwroot\img\4\98384c1f-cd28-4884-b070-e7b7d8058ef4.jpg
-wwwroot\img\4\ff98759e-5ff1-446c-bf83-0cddc01cf9a2_5168301f-b119-4d61-a5b3-aee3edd19425.jpg
-wwwroot\img\6\29ba107f-472a-44de-b981-7641a816e12b_024deca1-9c9a-4ac4-a25c-a8cc31e6371a_53c22ffd-c22c-4c31-b570-c8c8ceb87523.jpg
-wwwroot\img\6\2ceec25c-2e90-4d75-af93-800585bd3b58_26f0da21-73be-4729-a729-b1707ad7d327_duramoabove.jpg
-wwwroot\img\6\33b179e2-e62d-4936-9057-abd3d22b5bd4_93a54454-8ca9-443e-b9ff-a770448df959_c05e4d64-0078-4ec0-a7c2-4c32d6bb6274.jpg
-wwwroot\img\6\4d52b28d-e493-412a-aee1-b9d1b0e3de8f_93a54454-8ca9-443e-b9ff-a770448df959_c05e4d64-0078-4ec0-a7c2-4c32d6bb6274.jpg
-wwwroot\img\6\4e54a7a2-4ade-4de2-a9e3-65a90ebb4e8f_024deca1-9c9a-4ac4-a25c-a8cc31e6371a_53c22ffd-c22c-4c31-b570-c8c8ceb87523.jpg
-wwwroot\img\6\5fd3e8a0-a950-4d3d-abcc-7ec57243b948_b47930d4-b563-4990-92cc-f37898d9561a_duramo.jpg
-wwwroot\img\6\64624b4c-b8ee-4835-9936-a727bfca466b_10e6f69e-d52a-463e-8f3d-401493bd77c9_d64d8498-7820-4071-9072-e42549859956.jpg
-wwwroot\img\6\65d4ad1e-3b28-47f1-a51a-a0f51b4843b9_10e6f69e-d52a-463e-8f3d-401493bd77c9_d64d8498-7820-4071-9072-e42549859956.jpg
-wwwroot\img\6\6e667d27-6294-40da-ac77-57ad2913c10d_024deca1-9c9a-4ac4-a25c-a8cc31e6371a_53c22ffd-c22c-4c31-b570-c8c8ceb87523.jpg
-wwwroot\img\6\79f9e9e3-bfd9-4b19-a237-ca825f9d0aee_bb014c5c-042a-409e-aca0-d44420175da7_53c22ffd-c22c-4c31-b570-c8c8ceb87523.jpg
-wwwroot\img\6\aaa72e22-ed42-4a65-913c-aeb64f6fd84c_bb014c5c-042a-409e-aca0-d44420175da7_53c22ffd-c22c-4c31-b570-c8c8ceb87523.jpg
-wwwroot\img\6\b29c3849-8ce2-4b51-a5b7-866eac441df1_26f0da21-73be-4729-a729-b1707ad7d327_duramoabove.jpg
-wwwroot\img\6\b877499b-9587-4e94-8329-4fd0ed109c5f_bb014c5c-042a-409e-aca0-d44420175da7_53c22ffd-c22c-4c31-b570-c8c8ceb87523.jpg
-wwwroot\img\6\c6ab0932-6786-422d-9d95-34ab4e512895_bb014c5c-042a-409e-aca0-d44420175da7_53c22ffd-c22c-4c31-b570-c8c8ceb87523.jpg
-wwwroot\img\6\d41df4a8-0e5b-43bb-b9d9-b794a28ac79e_26f0da21-73be-4729-a729-b1707ad7d327_duramoabove.jpg
-wwwroot\img\7\6cbc390f-693a-4d1f-b5fe-f3a6413f421f_9142ed1b-a3a7-4528-8cd3-5c681a69a1ab_z5304694857959_fcebb348097a101c6888e9354bdd55f0.jpg
-wwwroot\img\7\9406d061-2b48-4e4e-bdcd-e9356dff9f03_7fd002d1-ee2a-4dd0-b1a8-43fd7f4bd91d_z5304674283034_9c04a4900d3c8285e621b9bad8d3c5c6.jpg
-wwwroot\img\7\ab325e5f-e396-442f-9a2f-75a9f0f35c19_cc2b5b3b-2403-4ae7-8230-e265dcfe500c.jpg
-wwwroot\img\7\c33d8135-31f5-4c5e-bc7e-c744310b9b03_c2b76f84-a257-43e3-abba-c90ac116bbf1_z5304681824046_078ee4fd6972c0e96f2adb337670c7ee.jpg
-wwwroot\img\7\e6749008-0d38-4939-984f-ce2176ba6998_3bafd203-28b4-40c1-b172-8879e1ec2815_z5304694853187_be48f0d0b377e913e3a1a2ce5b219fef.jpg
-wwwroot\img\7\ff4cada8-af27-4d95-b7ff-29aef78b55f8_fcbb3c55-0ce2-4d0e-958a-0f604d69ccec_z5304694869975_688ec45b4552a7ce3e30f92ac81b1228.jpg
-wwwroot\img\8\0fab1556-27d3-42d5-9ab9-c66e6b3941d5_9181c851-c395-4685-9203-4c096d615607_z5304703696588_9effba12b110a54e5eba62aa7ef663e7.jpg
-wwwroot\img\8\4c3d3252-3d55-4e98-9c87-b83ff92bef1c_c6594851-1fb5-4ac8-9f62-961bc8aee485_z5304702736319_63d8cc0ea2fa65e282594e05bc6e207e.jpg
-wwwroot\img\8\7c09a08f-6d65-4f9b-a0e9-0abbbdb39467_08b73ca6-8e93-485a-82c8-bab072a041a8_z5304702756497_43187aa7e068bd507d20edfb0fe4ce88.jpg
-wwwroot\img\8\873aca73-ad81-49dc-bf6c-103d8236ed00_f8652fc4-d650-4165-b5a3-8efc904ece4a_z5304702745476_ec171efd3ad47b9cb7891a3bc4900fb1.jpg
-wwwroot\img\8\8bd5de39-be5f-4444-b8d1-0aabf51c1882_37df5f1b-2c72-4c75-b57e-234f3a43ad7f_z5304703670995_d8f671382c2f9033b61522318420926a.jpg
-wwwroot\img\8\a0bd661c-7c7a-42f9-9f1b-315c76e9f502_57d377b3-20cb-4ced-a92a-17f559d53426_z5304703675908_c4ae76def61c16c7e5be7175dd900c86.jpg
-wwwroot\img\9\0b0bb14c-439d-4964-a778-2aef58bb3382_a7572ebf-764b-49fb-bc39-68f14ff25a32_z5304769329208_9db1bca44d7b6ff254a952ae7690d464.jpg
-wwwroot\img\9\1baefed5-8457-4185-91e1-cd0ccb8c5050_12923bd0-d819-48d0-9e55-5cd030290665_z5304760419023_49a19e8a540f3d598f4078a617a97796.jpg
-wwwroot\img\9\48d7192f-664f-4f76-9233-7098ce5d2ea7_1d38220b-6821-4eb6-bcb5-65bf034dba22_z5304760414098_ec39d0942a4b30d08ec8f7dded418194.jpg
-wwwroot\img\9\60cd9490-ec19-4e3f-9878-282fc0599872_383aea92-4b55-4e30-b7f0-e7dc2b743430_z5304769329209_62890a0bbab4dda03b51dbb899070e5f.jpg
-wwwroot\img\9\7437ff48-1b85-4710-8a24-b3d0f1603c87_fcf361f3-2023-4e86-ac0a-f6d5006621b8_z5304760447858_5665c6878491b94f0c1c9b8634fb5fb4.jpg
-wwwroot\img\9\78b96c91-cde6-4863-9a4d-8ab88ba5ecf2_1b182bd1-050a-4971-b918-0b1b104cdf28_z5304760437730_4f252cc2e1e5eadcc749338613289e26.jpg
-wwwroot\img\9\b74ed69b-f77a-477d-b32d-73d47eedefa3_3ebf7bdc-94b8-43ad-8d3f-1ddcc81f556a_z5304760404111_2832627c9471a74f1630c58a07866974.jpg
-wwwroot\img\9\ce44fb02-f60b-4951-ae32-29dbcd178064_16f15bd6-80b1-4983-b38f-0db27a4cc533_z5304760437729_09ffae18f0cb92bbe9e77ab9a445b629.jpg
-wwwroot\img\9\dcede708-492c-4b10-b2ff-6690410343b8_f690ef7a-0cb3-4189-917b-60f732b14e52_z5304769320797_0c23baf5f940bad8e10fdd1195ef388a.jpg
+wwwroot\img\10\145127a8-fe72-437c-ad0a-c488119fb5dc_45.jpg
+wwwroot\img\10\c17348a2-79d3-4400-b37e-07cbd8c590fe_49.jpg
+wwwroot\img\10\ca1cb148-df98-406f-b8c2-092f192f2471_48.jpg
+wwwroot\img\11\0d3d40c3-b971-4437-bb2c-4fc905f5d506_43.jpg
+wwwroot\img\11\17bed731-231c-4cbf-819c-1ab8b476f5ac_43.jpg
+wwwroot\img\11\5ac44b7f-ae44-416a-808e-d67ebe569d8a_354.jpg
+wwwroot\img\11\69d2470b-b5dd-4ec3-85aa-ce002dd3e290_332.jpg
+wwwroot\img\11\89a122e9-b66e-4b9e-a8cb-8a8c653c4bcd_35.jpg
+wwwroot\img\11\ac421b26-1114-44f8-9860-5a46225ed76d_51.jpg
+wwwroot\img\12\166ae513-ef0f-479f-ac44-8654f9ac32f5_50.jpg
+wwwroot\img\12\a69c6078-9f28-483f-9d4a-875d69cf52a1_51.jpg
+wwwroot\img\12\e5ffa577-0a1c-43e2-b364-2a974c8145a2_56.jpg
+wwwroot\img\13\8c7f9199-76e9-4913-8109-ffff1e44b009_43.jpg
+wwwroot\img\13\bf8ccc35-7c00-451c-ba1c-6089595f1493_45.jpg
+wwwroot\img\13\ca511605-3ca3-446c-96ed-06cc0df7ba0e_48.jpg
+wwwroot\img\14\02455171-2e1e-4bf2-b0a9-e645a47428e1_24.jpg
+wwwroot\img\14\4e911df6-3ecc-4e1a-9286-ed0befd0af45_24.jpg
+wwwroot\img\14\92346473-58c4-4dc1-8264-2f885156ffdf_29.jpg
+wwwroot\img\15\362cd1b2-02ed-4e6a-b7ba-e970d1571c7d_122.jpg
+wwwroot\img\15\5030ee71-9192-4337-acb2-62b47eaeed0a_26.jpg
+wwwroot\img\15\8e582b3e-fb2b-421b-afb0-3ccecb4ab432_25.jpg
+wwwroot\img\16\1c172382-8653-4742-a81b-63cdefc9dcd8_7.jpg
+wwwroot\img\16\f223ae31-269b-467b-b727-cca7176c4b54_5.png
+wwwroot\img\16\fb374247-87e7-440a-9827-0532244aea6e_8.jpg
+wwwroot\img\17\44c46fcc-b704-4df2-91f5-22269342164d_1.jpeg
+wwwroot\img\17\44f286cd-028c-4a90-a720-aeb6255c6ffb_3.png
+wwwroot\img\17\c2f20260-02bf-470f-8e21-4f14f3c0ee8b_1.jpeg
+wwwroot\img\18\2eca911e-0672-4747-9a94-27a5bbcc3990_123.jpg
+wwwroot\img\18\3748272f-b1e1-485e-933d-e69ea1e03dcb_122.jpg
+wwwroot\img\18\776a6ef6-5c53-42f5-8dc6-e1e4c86910a4_124.jpg
+wwwroot\img\19\0103c5cf-22fc-4808-9702-8a40cd2e0f9b_40.jpg
+wwwroot\img\19\1404ac01-e196-43c9-957d-d4a9e293fb83_56.jpg
+wwwroot\img\19\1475a4f6-7e73-4b1f-af12-7796030665a6_41.jpg
+wwwroot\img\19\336635fa-e2a7-4b98-8ec1-56c7f078364a_78.jpg
+wwwroot\img\19\63237fa8-8a64-4646-b507-662218645126_79.jpg
+wwwroot\img\19\6da51006-e34b-407a-b28e-2128b487b0ec_66.jpg
+wwwroot\img\19\6e75fedd-4319-4631-af75-e071cc708255_42.jpg
+wwwroot\img\19\815fb830-94a8-4f5c-aded-023919745679_67.jpg
+wwwroot\img\19\b03f8d6b-43fb-41e6-89fe-ad809cb198ee_77.jpg
+wwwroot\img\19\c8fc4ee2-e81c-4d2e-a503-baac0073bc36_65.jpg
+wwwroot\img\19\cf38d0fe-69e9-4730-b9b4-2dfee1f384e7_32.jpg
+wwwroot\img\19\d171d358-f23b-4301-8ed6-8b6fa2cbe8de_46.jpg
+wwwroot\img\20\16d3b5fb-fbba-4062-84f9-c1b4fe75900b_48.jpg
+wwwroot\img\20\cd8cbeb9-ad5f-4c7d-9bcd-10adfa0e6841_45.jpg
+wwwroot\img\20\df05618f-fbb1-44ee-a0a4-5a5abdaa0629_49.jpg
+wwwroot\img\21\76940b1d-6e3a-4789-871f-cea1b76131e6_51.jpg
+wwwroot\img\21\b176ea53-419d-4125-a3b5-c4aed8f2035a_50.jpg
+wwwroot\img\21\e766a9d0-5649-438f-82cf-885df87076b9_52.jpg
+wwwroot\img\22\3720c8d8-939f-41e7-a160-f431d7c663c7_65.jpg
+wwwroot\img\22\c894384f-2378-461a-9c77-b71ab8889aaf_67.jpg
+wwwroot\img\22\f1982de5-8724-4d6e-90de-f847caa3638d_66.jpg
+wwwroot\img\23\52de2847-8b7c-4839-91fd-0ce5c79747fb_676.jpg
+wwwroot\img\23\6ae83b2a-f8d4-4934-9611-ccdf5e29d434_6767.jpg
+wwwroot\img\23\ecbdf9e4-4193-431d-bddb-2d0141682758_776.jpg
+wwwroot\img\24\08720dc1-9a49-4b73-b5c4-b42a6b5ad43d_3`.jpg
+wwwroot\img\24\20dee284-ea23-42ed-ab4c-e12357440e55_2.jpg
+wwwroot\img\24\37e0bec0-790b-4f56-bdfe-a16f4de9b364_1.jpg
+wwwroot\img\25\135aee17-e619-4e26-947a-35a8e9b048ed_5.jpg
+wwwroot\img\25\560b344b-79d8-4efb-a266-487555bc7622_4.jpg
+wwwroot\img\25\ab936f80-fc99-414c-b6ab-9ac35d1dddbd_6.jpg
+wwwroot\img\26\3aef0cd0-bad6-42c1-9d0e-97788165fd39_9.jpg
+wwwroot\img\26\5a5cc483-dc1a-475e-ab5f-97f4f6ba48f8_8.jpg
+wwwroot\img\26\618e01c3-d90d-4de6-86e2-a9118d22d347_34.jpg
+wwwroot\img\7\28b52147-f2c4-4f86-8b85-a24aff4a675c_42.jpg
+wwwroot\img\7\29e45394-84bd-4c6b-8627-c6865a06126a_332.jpg
+wwwroot\img\7\4efabea8-b036-41d3-80bd-e492d72c51cf_56.jpg
+wwwroot\img\7\b0e2e04d-3760-40d7-9d34-b655ad378e0c_41.jpg
+wwwroot\img\7\cfe80d95-4415-427d-ac25-ca58728f4565_41.jpg
+wwwroot\img\7\e4ae165a-9072-4f61-ae27-fe002f8fa299_32.jpg
+wwwroot\img\8\077bc0b2-8c58-452b-93c4-6da8b30b740a_121.jpg
+wwwroot\img\8\236ef6fa-4980-4dda-b7bc-e5516cd3a37a_58.jpg
+wwwroot\img\8\b1836a29-1f99-4ff9-800d-5eaa257e5010_57.jpg
+wwwroot\img\9\0617b453-c652-4e55-a5db-d8d456bc9adb_78.jpg
+wwwroot\img\9\770c3fb0-4958-4308-839a-798a6b3de0a5_77.jpg
+wwwroot\img\9\c070a9d2-a099-41a5-a6d2-8a329dbcd8fe_79.jpg
 wwwroot\img\banner\1.jpg
-wwwroot\img\banner\1c10d556-a881-4909-a272-c579d1213ba0_1.jpg
 wwwroot\img\banner\2.png
 wwwroot\img\banner\4e71e878-ceb5-4565-8630-89bfd6c5e778_2.png
-wwwroot\img\banner\7f51e30d-2b7b-4d92-9bdb-a0abf6090e37_baner 2.png
-wwwroot\img\banner\a3cc37ee-b335-45bd-8a7a-6c0f72a7d28f_baner 2.png
-wwwroot\img\banner\baner 2.png
+wwwroot\img\banner\704b00ae-7588-457d-8ed3-ab1d328bf9dd_baner 2.png
+wwwroot\img\banner\a845eb32-0405-4956-b3d4-b8997033564c_banner-img.png
+wwwroot\img\banner\cce755db-2367-4852-b0a2-e0ca29ae31d7_baner 2.png
+wwwroot\img\banner\f47b6f3f-319d-4afe-b052-b489be14b2bb_banner-img.png
 wwwroot\img\banner\next.png
 wwwroot\img\banner\prev.png
 wwwroot\img\product\next.png
@@ -937,14 +923,34 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\videos\10\f5424d35-f5bb-4cee-b95f-de4fde5164a7_45.jpg
+wwwroot\videos\11\c4e06dbe-e575-43d3-aecc-f67960fb23ed_354.jpg
+wwwroot\videos\11\e9319d10-f5b6-4750-b306-ab647fd1b8cf_35.jpg
+wwwroot\videos\12\f22ca812-8ead-445e-a618-4d8b14f82a67_50.jpg
 wwwroot\videos\13\6f439187-daf9-4c42-92c8-cfc90669f6b5_Response_CL_Shoes_White_IG6226_video.webm
 wwwroot\videos\13\935d1cd0-5588-4865-83f0-1bc75de4c062_Response_CL_Shoes_Blue_IG6227_video.webm
-wwwroot\videos\14\e6f20b0d-538e-416c-9f85-e60416dec6fc_giay-nike-juniper-trail-3-nam-xam-den-04.jpg
-wwwroot\videos\16\c193c4f5-68ee-4340-9ca0-2f17871e12eb_1.jpeg
-wwwroot\videos\17\a6c25697-0259-4b10-8be1-a1e33a5d13ff_db5c1f5408e04852e94f55a845be519c_w0_h0.jpeg
-wwwroot\videos\18\0a6f7e01-0b4a-4c87-bef8-c822582e9e7e_jordan-1-low-bred-toe-gs-553560-612-2_2708d74a0bdc48d3b491e4ebbfcdc586_grande.jpg
+wwwroot\videos\13\db4b7071-07cc-4e66-972a-351a2824dc27_45.jpg
+wwwroot\videos\14\28d1650c-5a42-4877-b16a-0d8e3851fdb5_24.jpg
+wwwroot\videos\15\d2c1bbee-7867-49e4-9c65-9d1e62977357_25.jpg
+wwwroot\videos\16\06b370e1-d004-40cf-8c82-779b2ffb37ca_5.png
+wwwroot\videos\17\c230bc48-cfe6-49e7-9465-ba3cc2285517_1.jpeg
+wwwroot\videos\18\39a9fc7c-26a6-4c50-a446-2921164e54b2_123.jpg
+wwwroot\videos\19\1da58cee-e0a6-4f44-a488-22caa5a0ec41_65.jpg
 wwwroot\videos\19\71fc5342-2409-43ee-a76f-43b4128ddcf8_giay-adidas-ultraboost-5-nam-xam-01-800x800.jpg
-wwwroot\videos\7\06ade6a0-edab-4ca8-bbc4-d1e79f399491_Giay_Response_CL_trang_IG6226_video.webm
+wwwroot\videos\19\b26bdba1-b40b-48f2-83d1-fb07a235fdcd_77.jpg
+wwwroot\videos\19\c1bacf3b-e637-41cc-ae55-c4ef760f6e4d_40.jpg
+wwwroot\videos\19\ed97e28a-6bdf-4913-a7f6-35413f47d14f_32.jpg
+wwwroot\videos\20\b0752aeb-d50a-4353-ad4a-f969c3834001_45.jpg
+wwwroot\videos\21\861909cf-6f6c-4caf-b86a-2235fbc4f972_50.jpg
+wwwroot\videos\22\f9153cbe-6ac3-47a8-891a-dc59dd38871d_65.jpg
+wwwroot\videos\23\9865326c-cfac-491f-928f-743884ab1f01_776.jpg
+wwwroot\videos\24\ef4faf4e-9f22-4c46-b08f-5272452a76df_1.jpg
+wwwroot\videos\25\280cb0b4-4622-4f3f-a40b-3124a795060b_6.jpg
+wwwroot\videos\26\8da4f88f-07c1-4112-a094-b1c6aeaa763c_9.jpg
+wwwroot\videos\7\552f9c4f-3ab7-4f15-a484-e8df60dc6cff_32.jpg
+wwwroot\videos\7\99a4c54a-c676-4ad1-848f-daaf973b461e_41.jpg
+wwwroot\videos\8\a00e161f-9fd9-4f94-b72c-22478df4ae46_58.jpg
+wwwroot\videos\9\225a02c8-90d1-4fab-8265-842d5ceaf839_78.jpg
 wwwroot\videos\9\58190c5d-5a42-4340-b8fd-89fb12d4fa87_Supernova_Stride_Shoes_White_ID0329_video.webm
 wwwroot\videos\9\ebaf642e-e54d-4b7c-8852-f7884fe675d7_Supernova_Stride_Shoes_Black_IG8317_video.webm
 wwwroot\videos\9\ff340cb7-1dfc-480d-a0b5-073d13158c59_Supernova_Stride_Shoes_Red_IG8313_video.webm

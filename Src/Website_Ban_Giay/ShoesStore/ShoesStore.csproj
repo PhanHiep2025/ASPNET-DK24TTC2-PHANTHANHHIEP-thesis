@@ -8,13 +8,21 @@
 
   <ItemGroup>
     <Compile Remove="wwwroot\ha-master - Copy\**" />
+    <Compile Remove="wwwroot\ha-master\img\organic-food\**" />
     <Compile Remove="wwwroot\ha-master\Karma Shop-doc\**" />
+    <Compile Remove="wwwroot\img\blog\**" />
     <Content Remove="wwwroot\ha-master - Copy\**" />
+    <Content Remove="wwwroot\ha-master\img\organic-food\**" />
     <Content Remove="wwwroot\ha-master\Karma Shop-doc\**" />
+    <Content Remove="wwwroot\img\blog\**" />
     <EmbeddedResource Remove="wwwroot\ha-master - Copy\**" />
+    <EmbeddedResource Remove="wwwroot\ha-master\img\organic-food\**" />
     <EmbeddedResource Remove="wwwroot\ha-master\Karma Shop-doc\**" />
+    <EmbeddedResource Remove="wwwroot\img\blog\**" />
     <None Remove="wwwroot\ha-master - Copy\**" />
+    <None Remove="wwwroot\ha-master\img\organic-food\**" />
     <None Remove="wwwroot\ha-master\Karma Shop-doc\**" />
+    <None Remove="wwwroot\img\blog\**" />
   </ItemGroup>
 
   <ItemGroup>
@@ -22,7 +30,6 @@
     <None Include="wwwroot\ha-master\.DS_Store" />
     <None Include="wwwroot\ha-master\css\.DS_Store" />
     <None Include="wwwroot\ha-master\img\.DS_Store" />
-    <None Include="wwwroot\ha-master\img\organic-food\.DS_Store" />
     <None Include="wwwroot\ha-master\js\.DS_Store" />
     <None Include="wwwroot\ha-master\scss\.DS_Store" />
     <None Include="wwwroot\img\banner\next.png" />
@@ -51,7 +58,6 @@
 
   <ItemGroup>
     <Folder Include="Migrations\" />
-    <Folder Include="wwwroot\img\blog\" />
   </ItemGroup>
 
 </Project>

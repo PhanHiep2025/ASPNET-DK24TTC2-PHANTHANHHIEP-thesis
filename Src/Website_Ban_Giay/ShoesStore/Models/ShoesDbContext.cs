@@ -59,7 +59,7 @@ public partial class ShoesDbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Data Source=DESKTOP-0I8LU2E\\SQLEXPRESS;Initial Catalog=ShoesStore2;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False");
+        => optionsBuilder.UseSqlServer("Data Source=DESKTOP-4DNRM1U;Initial Catalog=ShoesStore2;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -73,11 +73,11 @@ public partial class ShoesDbContext : DbContext
             entity.Property(e => e.Hoatdong).HasColumnName("HOATDONG");
             entity.Property(e => e.Link).HasColumnName("LINK");
             entity.Property(e => e.Slogan)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasDefaultValueSql("(N'')")
                 .HasColumnName("SLOGAN");
             entity.Property(e => e.Tenbanner)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("TENBANNER");
             entity.Property(e => e.Vitri).HasColumnName("VITRI");
         });
@@ -152,7 +152,7 @@ public partial class ShoesDbContext : DbContext
             entity.Property(e => e.Maloai).HasColumnName("MALOAI");
             entity.Property(e => e.Mota).HasColumnName("MOTA");
             entity.Property(e => e.Tendongsp)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("TENDONGSP");
 
             entity.HasOne(d => d.MaloaiNavigation).WithMany(p => p.Dongsanphams)
@@ -171,17 +171,17 @@ public partial class ShoesDbContext : DbContext
 
             entity.Property(e => e.Makh).HasColumnName("MAKH");
             entity.Property(e => e.Email)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("EMAIL");
             entity.Property(e => e.Gioitinh).HasColumnName("GIOITINH");
             entity.Property(e => e.Ngaysinh)
                 .HasColumnType("datetime")
                 .HasColumnName("NGAYSINH");
             entity.Property(e => e.Sdt)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("SDT");
             entity.Property(e => e.Tenkh)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("TENKH");
             entity.Property(e => e.Tongxu)
                 .HasColumnType("money")
@@ -239,7 +239,7 @@ public partial class ShoesDbContext : DbContext
 
             entity.Property(e => e.Maloai).HasColumnName("MALOAI");
             entity.Property(e => e.Tenloai)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("TENLOAI");
         });
 
@@ -250,10 +250,10 @@ public partial class ShoesDbContext : DbContext
             entity.ToTable("MAU");
 
             entity.Property(e => e.Mamau)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("MAMAU");
             entity.Property(e => e.Tenmau)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("TENMAU");
         });
 
@@ -267,20 +267,20 @@ public partial class ShoesDbContext : DbContext
 
             entity.Property(e => e.Manv).HasColumnName("MANV");
             entity.Property(e => e.Diachi)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("DIACHI");
             entity.Property(e => e.Email)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("EMAIL");
             entity.Property(e => e.Gioitinh).HasColumnName("GIOITINH");
             entity.Property(e => e.Ngaysinh)
                 .HasColumnType("datetime")
                 .HasColumnName("NGAYSINH");
             entity.Property(e => e.Sdt)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("SDT");
             entity.Property(e => e.Tennv)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("TENNV");
 
             entity.HasOne(d => d.EmailNavigation).WithOne(p => p.Nhanvien)
@@ -303,36 +303,36 @@ public partial class ShoesDbContext : DbContext
 
             entity.Property(e => e.Mapm).HasColumnName("MAPM");
             entity.Property(e => e.Diachinguoinhan)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasDefaultValueSql("(N'')")
                 .HasColumnName("DIACHINGUOINHAN");
             entity.Property(e => e.Emailnguoinhan)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasDefaultValueSql("(N'')")
                 .HasColumnName("EMAILNGUOINHAN");
             entity.Property(e => e.Ghichu).HasColumnName("GHICHU");
             entity.Property(e => e.Lydohuydon)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("LYDOHUYDON");
             entity.Property(e => e.Makh).HasColumnName("MAKH");
             entity.Property(e => e.Manv).HasColumnName("MANV");
             entity.Property(e => e.Mapttt).HasColumnName("MAPTTT");
             entity.Property(e => e.Mavoucher)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("MAVOUCHER");
             entity.Property(e => e.Ngaydat)
                 .HasColumnType("datetime")
                 .HasColumnName("NGAYDAT");
             entity.Property(e => e.Sdtnguoinhan)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasDefaultValueSql("(N'')")
                 .HasColumnName("SDTNGUOINHAN");
             entity.Property(e => e.Tennguoinhan)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasDefaultValueSql("(N'')")
                 .HasColumnName("TENNGUOINHAN");
             entity.Property(e => e.Tinhtrang)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("TINHTRANG");
             entity.Property(e => e.Tongtien)
                 .HasColumnType("money")
@@ -366,7 +366,7 @@ public partial class ShoesDbContext : DbContext
 
             entity.Property(e => e.Mapttt).HasColumnName("MAPTTT");
             entity.Property(e => e.Tenphuongthuc)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("TENPHUONGTHUC");
         });
 
@@ -406,7 +406,7 @@ public partial class ShoesDbContext : DbContext
             entity.Property(e => e.Anhmattren).HasColumnName("ANHMATTREN");
             entity.Property(e => e.Madongsanpham).HasColumnName("MADONGSANPHAM");
             entity.Property(e => e.Mamau)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("MAMAU");
             entity.Property(e => e.TrangThai).HasColumnName("TRANGTHAI");
             entity.Property(e => e.Video).HasColumnName("VIDEO");
@@ -454,7 +454,7 @@ public partial class ShoesDbContext : DbContext
 
             entity.Property(e => e.Masize).HasColumnName("MASIZE");
             entity.Property(e => e.Tensize)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("TENSIZE");
         });
 
@@ -472,7 +472,7 @@ public partial class ShoesDbContext : DbContext
                 .HasColumnName("DIACHI");
             entity.Property(e => e.Makh).HasColumnName("MAKH");
             entity.Property(e => e.Sdtnguoinhan)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("SDTNGUOINHAN");
             entity.Property(e => e.Tennguoinhan)
                 .HasMaxLength(500)
@@ -491,11 +491,11 @@ public partial class ShoesDbContext : DbContext
             entity.ToTable("TAIKHOAN");
 
             entity.Property(e => e.Email)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("EMAIL");
             entity.Property(e => e.Loaitk).HasColumnName("LOAITK");
             entity.Property(e => e.Matkhau)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("MATKHAU");
         });
 
@@ -520,7 +520,7 @@ public partial class ShoesDbContext : DbContext
             entity.ToTable("VOUCHER");
 
             entity.Property(e => e.Mavoucher)
-                .HasMaxLength(255)
+                .HasMaxLength(250)
                 .HasColumnName("MAVOUCHER");
             entity.Property(e => e.Giamtoida)
                 .HasColumnType("money")

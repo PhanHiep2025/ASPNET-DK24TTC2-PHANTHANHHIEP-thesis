@@ -1725,7 +1725,7 @@ h1, h2, h3, h4, h5, h6 {
         line-height: 52px;
         text-align: center;
         border-radius: 50%;
-        box-shadow: 0 10px 20px rgba(255, 108, 0, 0.2);
+        box-shadow: 0 10px 20px rgba(250, 108, 0, 0.2);
     }
 
         .add-bag .add-btn span {
@@ -3150,7 +3150,7 @@ label {
     }
 
     .register-form .common-input {
-        border: 1px solid rgba(255, 255, 255, 0.3);
+        border: 1px solid rgba(250, 250, 250, 0.3);
         background: transparent;
         color: #fff;
     }
@@ -6977,7 +6977,7 @@ label {
             width: 100%;
             left: 0px;
             height: 3px;
-            background: rgba(255, 255, 255, 0.5);
+            background: rgba(250, 250, 250, 0.5);
         }
 
             .causes_item .causes_img .c_parcent span {
@@ -7160,7 +7160,7 @@ label {
         }
 
     .categories_post:hover .categories_details {
-        background: rgba(255, 186, 0, 0.8);
+        background: rgba(250, 186, 0, 0.8);
     }
 
 /*============ blog_left_sidebar css ==============*/
